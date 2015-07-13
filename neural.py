@@ -12,10 +12,14 @@ class network:
         self.grad_source = []
 
         prev_size = json['inputs']
+        cost_prime = eval('lambda output, target:' + json['cost_prime'])
+        self.cost_prime = np.vectorize(cost_prime)
+        self.cost_prime_source = json['cost_prime']
+
         for layer in json['layers']:
             size = layer['nodes']
-            actv = eval("lambda x:" + layer['activation'])
-            grad = eval("lambda x:" + layer['gradient'])
+            actv = eval('lambda x:' + layer['activation'])
+            grad = eval('lambda x:' + layer['gradient'])
 
             self.actv_source.append(layer['activation'])
             self.grad_source.append(layer['gradient'])
@@ -28,10 +32,14 @@ class network:
 
     @staticmethod
     def load_json(json):
-        net = network({'inputs': 0, 'layers': []})
-        for layer in json:
-            actv = eval("lambda x:" + layer['actv'])
-            grad = eval("lambda x:" + layer['grad'])
+        net = network({'inputs': 0, 'cost_prime': '0', 'layers': []})
+        net.cost_prime_source = json['cost_prime']
+        cost_prime = eval('lambda output, target:' + net.cost_prime_source)
+        net.cost_prime = np.vectorize(cost_prime)
+
+        for layer in json['layers']:
+            actv = eval('lambda x:' + layer['actv'])
+            grad = eval('lambda x:' + layer['grad'])
 
             net.actv_source.append(layer['actv'])
             net.grad_source.append(layer['grad'])
@@ -43,14 +51,15 @@ class network:
         return net
 
     def save_json(self):
-        json = []
+        layers = []
         for a, g, w, b in zip(self.actv_source,
                               self.grad_source,
                               [x.tolist() for x in self.weights],
                               [x.tolist() for x in self.bias]):
 
-            json.append({'actv': a, 'grad': g, 'weights': w, 'bias': b})
+            layers.append({'actv': a, 'grad': g, 'weights': w, 'bias': b})
 
+        json = {'cost_prime': self.cost_prime_source, 'layers': layers}
         return json
 
     def predict(self, signals):
@@ -84,11 +93,9 @@ class network:
                                         self.weights,
                                         self.bias):
                 signals.append(signal)
-
                 argument = w.dot(signal) + b
                 signal = actv(argument)
                 gradient = grad(argument)
-
                 gradients.append(gradient)
 
             backprop_values = zip(reversed(self.weights),
@@ -97,14 +104,18 @@ class network:
                                   reversed(weight_delta),
                                   reversed(bias_delta))
 
-            # We loop backwards through the net, propagating the error and
-            # saving our weight and bias corrections
-            error = (signal - target)
-
+            # LeCun, Efficient BackProp
+            # (http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
+            error = self.cost_prime(signal, target)
             for w, g, s, wd, bd in backprop_values:
+                # Equation (7)
                 error = error * g
                 bd += error
+
+                # Equation (8)
                 wd += np.outer(error, s)
+
+                # Equation (9)
                 error = w.T.dot(error)
 
         # After processing the whole batch we adjust our weights and biases
