@@ -19,51 +19,23 @@ def descend(positions, distances, rate):
             s += (x0 - x1)**2
             x_delta[idx] = x0 - x1
 
-        if s <= 0:
-            s = 0.1
-        if d <= 0:
-            d = 0.1
         s = math.sqrt(s)
-        x_delta = (d-s)/(d*s) * x_delta
+        x_delta = (d-s) * x_delta
+
         pos_delta[distance[0]] += rate * x_delta
         pos_delta[distance[1]] -= rate * x_delta
 
-        total_energy += (d-s)**2 / d
+        total_energy += (d-s)**2
 
     return [positions + pos_delta, total_energy]
 
 
-def generate_map(ids, distances, dims):
+def generate_map(ids, distances, dims, rate=.0025, iterations=200):
     dists = [[ids.index(d[0]), ids.index(d[1]), abs(d[2])] for d in distances]
     positions = np.random.randn(len(ids), dims)
 
-    prev_energy = 0
-    rate_multiplier = 1
-    for i in range(2000):
-        positions, energy = descend(positions, dists, .025 * rate_multiplier)
-        rate_multiplier = 1 + 10/(0.1 + (prev_energy - energy)**2)
-        prev_energy = energy
-        print(i, energy, rate_multiplier)
+    for i in range(iterations):
+        positions, energy = descend(positions, dists, rate)
+        print(i, energy)
 
-    return [[ids[i], p.tolist()] for i, p in zip(count(), positions)]
-
-"""
-ids = ["cake", "pie", "muffin"]
-
-distances = [["cake", "pie", 2.5],
-             ["pie", "cake", 2.5]]
-
-test = generate_map(ids, distances, 1)
-print(test)
-"""
-
-"""
-pos = np.array([[-1.2, 1.9, 0.0], [0.0, 1.0, -8.1], [1.4, -7.2, 1.1]])
-dist = np.array([[0, 1, 1.0], [1, 2, 3.4], [0, 2, 2.3]])
-
-for i in range(50):
-    pos, energy = descend(pos, dist, 0.5)
-    print(pos)
-    print(energy)
-    print("------")
-"""
+    return [[ids[i], p] for i, p in zip(count(), positions)]
