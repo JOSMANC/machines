@@ -1,0 +1,44 @@
+import numpy as np
+from itertools import count
+from math import sin, cos, acos, sqrt
+
+
+def descend(radius, positions, distances, rate):
+    pos_delta = np.zeros_like(positions)
+    total_energy = 0
+
+    for distance in distances:
+        theta_0, phi_0 = positions[distance[0]]
+        theta_1, phi_1 = positions[distance[1]]
+
+        d = distance[2]
+
+        gamma = cos(theta_0)*cos(theta_1) + sin(theta_0)*sin(theta_1)*cos(phi_1 - phi_0)
+        s = radius*acos(gamma)
+
+        t0_del = cos(theta_0)*sin(theta_1)*cos(phi_1 - phi_0) - sin(theta_0)*cos(theta_1)
+        p0_del = sin(theta_1)*sin(phi_1 - phi_0)
+        t1_del = sin(theta_0)*cos(theta_1)*cos(phi_1 - phi_0) - cos(theta_0)*sin(theta_1)
+        p1_del = -sin(theta_0)*sin(phi_1 - phi_0)
+
+        prefactor = (d-s) / sqrt(1 - gamma**2)
+        grad_0 = prefactor*np.array([t0_del, p0_del])
+        grad_1 = prefactor*np.array([t1_del, p1_del])
+
+        pos_delta[distance[0]] -= rate*grad_0
+        pos_delta[distance[1]] -= rate*grad_1
+
+        total_energy += (d-s)**2
+
+    return [positions + pos_delta, total_energy]
+
+
+def embed(ids, distances, initial_positions, radius, rate, iterations):
+    dists = [[ids.index(d[0]), ids.index(d[1]), abs(d[2])] for d in distances]
+    positions = initial_positions
+
+    for i in range(iterations):
+        positions, energy = descend(radius, positions, dists, rate)
+        print(i, energy)
+
+    return [[ids[i], p] for i, p in zip(count(), positions)]

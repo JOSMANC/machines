@@ -10,16 +10,16 @@ def descend(positions, distances, rate):
     for distance in distances:
         pos_0 = positions[distance[0]]
         pos_1 = positions[distance[1]]
-
         d = distance[2]
-        s = 0
+
+        s2 = 0
         x_delta = np.zeros_like(pos_0)
 
         for idx, x0, x1 in zip(count(), pos_0, pos_1):
-            s += (x0 - x1)**2
+            s2 += (x0 - x1)**2
             x_delta[idx] = x0 - x1
 
-        s = math.sqrt(s)
+        s = math.sqrt(s2)
         x_delta = (d-s) * x_delta
 
         pos_delta[distance[0]] += rate * x_delta
@@ -30,12 +30,16 @@ def descend(positions, distances, rate):
     return [positions + pos_delta, total_energy]
 
 
-def generate_map(ids, distances, dims, rate=.0025, iterations=200):
+def embed(ids, distances, initial_positions, rate, iterations):
     dists = [[ids.index(d[0]), ids.index(d[1]), abs(d[2])] for d in distances]
-    positions = np.random.randn(len(ids), dims)
+    positions = initial_positions
 
     for i in range(iterations):
         positions, energy = descend(positions, dists, rate)
         print(i, energy)
 
     return [[ids[i], p] for i, p in zip(count(), positions)]
+
+
+def generate_initial_positions(ids, dimensions):
+    return np.random.randn(len(ids), dimensions)
