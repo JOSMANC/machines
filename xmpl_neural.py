@@ -3,7 +3,6 @@ import numpy as np
 import neural
 import itertools
 import math
-import json
 
 least_squares = 'output - target'
 tanh = 'math.tanh(x)'
@@ -12,24 +11,24 @@ net = neural.network({'inputs': 1,
                       'cost_prime': least_squares,
                       'layers': [{'activation': tanh,
                                   'gradient': tanh_prime,
-                                  'nodes': 40},
+                                  'nodes': 30},
                                  {'activation': 'x',
                                   'gradient': '1',
                                   'nodes': 1}]})
 
-magnitude = 1
+magnitude = 2
 steps = 100
-learning_rate = .1
+learning_rate = .02
 X = np.linspace(-magnitude, magnitude, steps)
 
 predictions = [list(itertools.chain.from_iterable(net.predict(X)))]
 sin = np.vectorize(math.sin)
 
-for epoch in range(10):
+for epoch in range(5):
     print('.')
-    for i in range(50):
+    for i in range(200):
         signal = np.random.randn(100) * magnitude
-        target = signal**2
+        target = signal**3
         net.learn(signal, target, learning_rate)
     predictions.append(list(itertools.chain.from_iterable(net.predict(X))))
 
@@ -38,6 +37,3 @@ for p in predictions:
     axis.plot(X, p)
 
 plt.show()
-
-# with open('test.txt', 'w') as outfile:
-#     json.dump(net.save_json(), outfile)
