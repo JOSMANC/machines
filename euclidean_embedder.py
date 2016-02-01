@@ -41,12 +41,11 @@ def embed(ids, distances, initial_positions, rate, iterations):
 
     # Here we sanatize the distances list by changing all ids into indexes in
     # the ids list and making sure all distances are positive.
-    dists = [[ids.index(d[0]), ids.index(d[1]), abs(d[2])] for d in distances]
+    dists = [[ids.index(d[0]), ids.index(d[1]), abs(float(d[2]))] for d in distances]
     positions = initial_positions
 
     # use gradient descent for the given number of iterations
     for i in range(iterations):
         positions, energy = descend(positions, dists, rate)
-        print(i, energy)
 
-    return [[ids[i], p] for i, p in zip(count(), positions)]
+    return [[ids[i]] + list(p) for i, p in zip(count(), positions)]

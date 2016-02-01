@@ -38,7 +38,7 @@ def descend(radius, positions, distances, rate):
 
 
 def embed(ids, distances, initial_positions, radius, rate, iterations):
-    dists = [[ids.index(d[0]), ids.index(d[1]), abs(d[2])] for d in distances]
+    dists = [[ids.index(d[0]), ids.index(d[1]), abs(float(d[2]))] for d in distances]
     positions = initial_positions
 
     # use gradient descent for the given number of iterations
@@ -46,4 +46,4 @@ def embed(ids, distances, initial_positions, radius, rate, iterations):
         positions, energy = descend(radius, positions, dists, rate)
         print(i, energy)
 
-    return [[ids[i], p] for i, p in zip(count(), positions)]
+    return [[ids[i]] + list(p) for i, p in zip(count(), positions)]

@@ -1,0 +1,3777 @@
+Kennesaw State,Stetson,5.5
+Kennesaw State,Northern Kentucky,14.5
+Stetson,Northern Kentucky,7.5
+Kennesaw State,North Florida,17.5
+Stetson,North Florida,14.6666666667
+Northern Kentucky,North Florida,13.5
+Kennesaw State,Lipscomb,16.5
+Stetson,Lipscomb,0.0
+Northern Kentucky,Lipscomb,1.66666666667
+North Florida,Lipscomb,12.6666666667
+Kennesaw State,South Carolina Upstate,22.3333333333
+Stetson,South Carolina Upstate,21.5
+Northern Kentucky,South Carolina Upstate,10.0
+North Florida,South Carolina Upstate,5.33333333333
+Lipscomb,South Carolina Upstate,10.5
+Kennesaw State,Florida Gulf Coast,3.5
+Stetson,Florida Gulf Coast,19.0
+Northern Kentucky,Florida Gulf Coast,8.0
+North Florida,Florida Gulf Coast,15.0
+Lipscomb,Florida Gulf Coast,9.0
+South Carolina Upstate,Florida Gulf Coast,5.33333333333
+Kennesaw State,Jacksonville,7.0
+Stetson,Jacksonville,0.5
+Northern Kentucky,Jacksonville,7.0
+North Florida,Jacksonville,25.0
+Lipscomb,Jacksonville,3.5
+South Carolina Upstate,Jacksonville,3.0
+Florida Gulf Coast,Jacksonville,13.0
+South Carolina Upstate,Cal State Fullerton,15.0
+Cal State Fullerton,UC Riverside,5.5
+Cal State Fullerton,UC Davis,8.5
+UC Riverside,UC Davis,7.5
+Florida Gulf Coast,UC Santa Barbara,3.5
+Cal State Fullerton,UC Santa Barbara,17.0
+UC Riverside,UC Santa Barbara,3.0
+UC Davis,UC Santa Barbara,4.0
+Cal State Fullerton,UC Irvine,5.5
+UC Riverside,UC Irvine,5.33333333333
+UC Davis,UC Irvine,19.0
+UC Santa Barbara,UC Irvine,9.33333333333
+Cal State Fullerton,Long Beach State,14.5
+UC Riverside,Long Beach State,3.0
+UC Davis,Long Beach State,6.5
+UC Santa Barbara,Long Beach State,0.5
+UC Irvine,Long Beach State,2.5
+Cal State Fullerton,Cal Poly,11.0
+UC Riverside,Cal Poly,7.5
+UC Davis,Cal Poly,6.5
+UC Santa Barbara,Cal Poly,5.66666666667
+UC Irvine,Cal Poly,8.5
+Long Beach State,Cal Poly,5.5
+Cal State Fullerton,Hawaii,20.5
+UC Riverside,Hawaii,8.5
+UC Davis,Hawaii,2.66666666667
+UC Santa Barbara,Hawaii,4.5
+UC Irvine,Hawaii,10.0
+Long Beach State,Hawaii,3.66666666667
+Cal Poly,Hawaii,0.5
+Cal State Fullerton,CS Northridge,3.0
+UC Riverside,CS Northridge,1.5
+UC Davis,CS Northridge,9.0
+UC Santa Barbara,CS Northridge,1.5
+UC Irvine,CS Northridge,20.0
+Long Beach State,CS Northridge,8.5
+Cal Poly,CS Northridge,0.0
+Hawaii,CS Northridge,13.0
+Dartmouth,Columbia,12.5
+Lipscomb,Princeton,22.0
+Dartmouth,Princeton,9.0
+Columbia,Princeton,7.0
+Dartmouth,Brown,1.5
+Columbia,Brown,19.0
+Princeton,Brown,14.5
+Dartmouth,Cornell,1.0
+Columbia,Cornell,3.5
+Princeton,Cornell,2.5
+Brown,Cornell,3.5
+Dartmouth,Harvard,1.0
+Columbia,Harvard,7.0
+Princeton,Harvard,5.5
+Brown,Harvard,6.0
+Cornell,Harvard,6.5
+Dartmouth,Penn,1.0
+Columbia,Penn,9.5
+Princeton,Penn,12.5
+Brown,Penn,11.0
+Cornell,Penn,4.5
+Harvard,Penn,24.0
+Dartmouth,Yale,7.0
+Columbia,Yale,1.0
+Princeton,Yale,14.5
+Brown,Yale,11.0
+Cornell,Yale,9.5
+Harvard,Yale,2.0
+Penn,Yale,16.0
+Tulane,Tulsa,14.0
+Harvard,Houston,21.0
+Tulane,Houston,2.66666666667
+Tulsa,Houston,13.0
+Tulane,Cincinnati,7.5
+Tulsa,Cincinnati,9.0
+Houston,Cincinnati,11.5
+Stetson,UCF,9.0
+South Carolina Upstate,UCF,7.0
+Tulane,UCF,8.5
+Tulsa,UCF,2.0
+Houston,UCF,1.5
+Cincinnati,UCF,16.5
+South Carolina Upstate,Memphis,10.0
+Tulane,Memphis,3.0
+Tulsa,Memphis,10.0
+Houston,Memphis,18.5
+Cincinnati,Memphis,0.5
+UCF,Memphis,15.0
+Hawaii,East Carolina,2.0
+Tulane,East Carolina,8.0
+Tulsa,East Carolina,6.5
+Houston,East Carolina,6.5
+Cincinnati,East Carolina,8.5
+UCF,East Carolina,8.0
+Memphis,East Carolina,0.5
+Columbia,Connecticut,15.0
+Yale,Connecticut,1.0
+Tulane,Connecticut,8.0
+Tulsa,Connecticut,7.33333333333
+Houston,Connecticut,2.0
+Cincinnati,Connecticut,1.0
+UCF,Connecticut,7.0
+Memphis,Connecticut,2.0
+East Carolina,Connecticut,12.0
+UC Santa Barbara,SMU,7.0
+Tulane,SMU,14.0
+Tulsa,SMU,8.0
+Houston,SMU,13.5
+Cincinnati,SMU,7.0
+UCF,SMU,14.0
+Memphis,SMU,11.5
+East Carolina,SMU,14.5
+Connecticut,SMU,6.0
+Penn,Temple,9.0
+Tulane,Temple,13.0
+Tulsa,Temple,11.5
+Houston,Temple,12.0
+Cincinnati,Temple,7.5
+UCF,Temple,15.0
+Memphis,Temple,3.0
+East Carolina,Temple,13.5
+Connecticut,Temple,8.0
+SMU,Temple,9.0
+Jacksonville,South Florida,14.0
+Tulane,South Florida,4.5
+Tulsa,South Florida,12.0
+Houston,South Florida,7.5
+Cincinnati,South Florida,5.0
+UCF,South Florida,9.0
+Memphis,South Florida,27.0
+East Carolina,South Florida,2.5
+Connecticut,South Florida,17.6666666667
+SMU,South Florida,22.5
+Temple,South Florida,19.0
+South Florida,Seton Hall,20.0
+Tulsa,Creighton,13.0
+Seton Hall,Creighton,1.0
+Penn,Villanova,15.0
+Temple,Villanova,23.0
+Seton Hall,Villanova,10.5
+Creighton,Villanova,12.5
+Long Beach State,St John's,17.0
+Tulane,St John's,25.0
+Seton Hall,St John's,1.0
+Creighton,St John's,7.5
+Villanova,St John's,27.5
+Kennesaw State,Butler,42.0
+Seton Hall,Butler,12.0
+Creighton,Butler,2.5
+Villanova,Butler,7.5
+St John's,Butler,13.5
+Brown,Providence,10.0
+Yale,Providence,6.0
+Seton Hall,Providence,10.0
+Creighton,Providence,10.5
+Villanova,Providence,12.0
+St John's,Providence,1.66666666667
+Butler,Providence,0.0
+Seton Hall,Georgetown,12.5
+Creighton,Georgetown,15.6666666667
+Villanova,Georgetown,2.0
+St John's,Georgetown,5.5
+Butler,Georgetown,0.666666666667
+Providence,Georgetown,3.0
+Seton Hall,Marquette,5.0
+Creighton,Marquette,3.0
+Villanova,Marquette,21.3333333333
+St John's,Marquette,9.5
+Butler,Marquette,12.5
+Providence,Marquette,1.0
+Georgetown,Marquette,8.0
+Seton Hall,DePaul,8.5
+Creighton,DePaul,6.0
+Villanova,DePaul,15.0
+St John's,DePaul,2.0
+Butler,DePaul,12.0
+Providence,DePaul,19.0
+Georgetown,DePaul,5.5
+Marquette,DePaul,3.5
+Florida Gulf Coast,Xavier,14.0
+Long Beach State,Xavier,10.0
+Cincinnati,Xavier,2.0
+Seton Hall,Xavier,1.5
+Creighton,Xavier,3.0
+Villanova,Xavier,14.0
+St John's,Xavier,4.5
+Butler,Xavier,3.66666666667
+Providence,Xavier,3.0
+Georgetown,Xavier,10.6666666667
+Marquette,Xavier,12.0
+DePaul,Xavier,5.0
+Kennesaw State,Chattanooga,8.0
+Northern Kentucky,Chattanooga,12.0
+Lipscomb,Chattanooga,18.0
+Butler,Chattanooga,22.0
+Chattanooga,Western Carolina,1.5
+Chattanooga,The Citadel,12.0
+Western Carolina,The Citadel,10.5
+Chattanooga,East Tennessee State,5.5
+Western Carolina,East Tennessee State,2.66666666667
+The Citadel,East Tennessee State,5.0
+Chattanooga,Wofford,3.0
+Western Carolina,Wofford,17.0
+The Citadel,Wofford,11.5
+East Tennessee State,Wofford,9.0
+East Carolina,UNC Greensboro,21.0
+Chattanooga,UNC Greensboro,6.0
+Western Carolina,UNC Greensboro,7.5
+The Citadel,UNC Greensboro,7.0
+East Tennessee State,UNC Greensboro,1.0
+Wofford,UNC Greensboro,16.3333333333
+Florida Gulf Coast,Furman,5.0
+UC Davis,Furman,3.0
+Chattanooga,Furman,4.33333333333
+Western Carolina,Furman,7.5
+The Citadel,Furman,7.66666666667
+East Tennessee State,Furman,1.5
+Wofford,Furman,10.0
+UNC Greensboro,Furman,14.0
+Chattanooga,VMI,13.0
+Western Carolina,VMI,6.5
+The Citadel,VMI,8.66666666667
+East Tennessee State,VMI,2.0
+Wofford,VMI,4.0
+UNC Greensboro,VMI,20.5
+Furman,VMI,22.0
+Kennesaw State,Samford,13.0
+Jacksonville,Samford,6.0
+CS Northridge,Samford,7.0
+Chattanooga,Samford,6.5
+Western Carolina,Samford,5.0
+The Citadel,Samford,5.5
+East Tennessee State,Samford,0.5
+Wofford,Samford,6.5
+UNC Greensboro,Samford,2.66666666667
+Furman,Samford,0.0
+VMI,Samford,5.5
+Kennesaw State,Mercer,8.0
+UC Santa Barbara,Mercer,5.0
+Dartmouth,Mercer,16.0
+Seton Hall,Mercer,16.0
+Chattanooga,Mercer,5.0
+Western Carolina,Mercer,6.0
+The Citadel,Mercer,23.0
+East Tennessee State,Mercer,2.0
+Wofford,Mercer,3.5
+UNC Greensboro,Mercer,13.0
+Furman,Mercer,2.0
+VMI,Mercer,15.6666666667
+Samford,Mercer,12.5
+Cincinnati,St Francis (PA),15.0
+Brown,Central Connecticut,12.0
+East Carolina,Central Connecticut,15.0
+Connecticut,Central Connecticut,33.0
+St Francis (PA),Central Connecticut,4.0
+Dartmouth,Bryant,17.0
+Brown,Bryant,7.0
+Harvard,Bryant,9.0
+Yale,Bryant,7.0
+Connecticut,Bryant,13.0
+St Francis (PA),Bryant,9.5
+Central Connecticut,Bryant,12.0
+Georgetown,Robert Morris,14.0
+Chattanooga,Robert Morris,15.0
+St Francis (PA),Robert Morris,3.0
+Central Connecticut,Robert Morris,6.5
+Bryant,Robert Morris,5.33333333333
+Temple,LIU Brooklyn,14.0
+St John's,LIU Brooklyn,13.0
+St Francis (PA),LIU Brooklyn,5.5
+Central Connecticut,LIU Brooklyn,8.5
+Bryant,LIU Brooklyn,4.5
+Robert Morris,LIU Brooklyn,4.0
+Brown,Sacred Heart,3.0
+Yale,Sacred Heart,6.0
+St Francis (PA),Sacred Heart,5.0
+Central Connecticut,Sacred Heart,3.0
+Bryant,Sacred Heart,6.66666666667
+Robert Morris,Sacred Heart,8.0
+LIU Brooklyn,Sacred Heart,5.0
+Columbia,Fairleigh Dickinson,10.0
+Princeton,Fairleigh Dickinson,4.0
+St John's,Fairleigh Dickinson,22.0
+St Francis (PA),Fairleigh Dickinson,4.5
+Central Connecticut,Fairleigh Dickinson,6.5
+Bryant,Fairleigh Dickinson,8.0
+Robert Morris,Fairleigh Dickinson,18.0
+LIU Brooklyn,Fairleigh Dickinson,1.0
+Sacred Heart,Fairleigh Dickinson,3.0
+Columbia,Wagner,14.0
+Penn,Wagner,3.0
+Cincinnati,Wagner,24.0
+St Francis (PA),Wagner,6.0
+Central Connecticut,Wagner,14.0
+Bryant,Wagner,4.5
+Robert Morris,Wagner,19.6666666667
+LIU Brooklyn,Wagner,9.0
+Sacred Heart,Wagner,0.0
+Fairleigh Dickinson,Wagner,9.0
+Columbia,St Francis (BKN),8.0
+Georgetown,St Francis (BKN),21.0
+St Francis (PA),St Francis (BKN),9.0
+Central Connecticut,St Francis (BKN),10.5
+Bryant,St Francis (BKN),3.0
+Robert Morris,St Francis (BKN),0.0
+LIU Brooklyn,St Francis (BKN),10.3333333333
+Sacred Heart,St Francis (BKN),5.5
+Fairleigh Dickinson,St Francis (BKN),12.5
+Wagner,St Francis (BKN),16.0
+Seton Hall,Mount St Mary's,23.0
+St Francis (PA),Mount St Mary's,2.0
+Central Connecticut,Mount St Mary's,24.0
+Bryant,Mount St Mary's,2.5
+Robert Morris,Mount St Mary's,14.5
+LIU Brooklyn,Mount St Mary's,12.0
+Sacred Heart,Mount St Mary's,0.5
+Fairleigh Dickinson,Mount St Mary's,15.5
+Wagner,Mount St Mary's,4.0
+St Francis (BKN),Mount St Mary's,2.0
+Dartmouth,Maine,23.0
+Seton Hall,Maine,29.0
+Butler,Maine,42.0
+LIU Brooklyn,Maine,13.0
+Wagner,Maine,1.0
+Yale,Albany,4.0
+Providence,Albany,4.0
+St Francis (PA),Albany,10.0
+Maine,Albany,19.6666666667
+Kennesaw State,UMBC,13.0
+Central Connecticut,UMBC,12.0
+Maine,UMBC,12.0
+Albany,UMBC,16.0
+Columbia,Stony Brook,5.0
+Princeton,Stony Brook,13.0
+Cincinnati,Stony Brook,26.0
+Providence,Stony Brook,18.0
+LIU Brooklyn,Stony Brook,19.0
+Maine,Stony Brook,35.5
+Albany,Stony Brook,5.0
+UMBC,Stony Brook,11.0
+Dartmouth,UMass Lowell,21.0
+Brown,UMass Lowell,9.0
+Cornell,UMass Lowell,11.0
+Sacred Heart,UMass Lowell,3.0
+Maine,UMass Lowell,7.0
+Albany,UMass Lowell,11.5
+UMBC,UMass Lowell,14.0
+Stony Brook,UMass Lowell,17.5
+Cornell,Binghamton,14.0
+Penn,Binghamton,9.0
+Providence,Binghamton,21.0
+Mount St Mary's,Binghamton,1.0
+Maine,Binghamton,8.0
+Albany,Binghamton,15.5
+UMBC,Binghamton,9.5
+Stony Brook,Binghamton,8.0
+UMass Lowell,Binghamton,1.5
+Dartmouth,Hartford,5.0
+Yale,Hartford,12.0
+Central Connecticut,Hartford,9.0
+Sacred Heart,Hartford,18.0
+Maine,Hartford,3.0
+Albany,Hartford,7.5
+UMBC,Hartford,2.5
+Stony Brook,Hartford,10.5
+UMass Lowell,Hartford,0.0
+Binghamton,Hartford,5.5
+UC Santa Barbara,Vermont,7.0
+Dartmouth,Vermont,3.0
+Harvard,Vermont,12.0
+Yale,Vermont,1.0
+Bryant,Vermont,26.0
+Wagner,Vermont,14.0
+Maine,Vermont,16.5
+Albany,Vermont,4.5
+UMBC,Vermont,22.3333333333
+Stony Brook,Vermont,7.0
+UMass Lowell,Vermont,27.0
+Binghamton,Vermont,9.0
+Hartford,Vermont,15.5
+Dartmouth,New Hampshire,2.0
+Brown,New Hampshire,7.0
+Bryant,New Hampshire,9.0
+LIU Brooklyn,New Hampshire,7.5
+Sacred Heart,New Hampshire,13.0
+Maine,New Hampshire,7.0
+Albany,New Hampshire,1.66666666667
+UMBC,New Hampshire,18.5
+Stony Brook,New Hampshire,2.5
+UMass Lowell,New Hampshire,9.5
+Binghamton,New Hampshire,12.5
+Hartford,New Hampshire,3.0
+Vermont,New Hampshire,5.0
+Cal State Fullerton,Texas A&M-CC;,5.0
+CS Northridge,Texas A&M-CC;,7.0
+Georgetown,Texas A&M-CC;,16.0
+SMU,Lamar,39.0
+Texas A&M-CC;,Lamar,2.0
+Texas A&M-CC;,Northwestern State,12.0
+Lamar,Northwestern State,12.0
+Texas A&M-CC;,McNeese State,10.0
+Lamar,McNeese State,2.0
+Northwestern State,McNeese State,12.0
+Wofford,Sam Houston State,11.0
+Texas A&M-CC;,Sam Houston State,3.0
+Lamar,Sam Houston State,17.5
+Northwestern State,Sam Houston State,11.0
+McNeese State,Sam Houston State,9.0
+Texas A&M-CC;,Nicholls State,3.0
+Lamar,Nicholls State,13.0
+Northwestern State,Nicholls State,25.5
+McNeese State,Nicholls State,3.0
+Sam Houston State,Nicholls State,23.0
+Tulane,Southeastern Louisiana,10.0
+UCF,Southeastern Louisiana,5.0
+South Florida,Southeastern Louisiana,15.0
+Texas A&M-CC;,Southeastern Louisiana,9.0
+Lamar,Southeastern Louisiana,7.0
+Northwestern State,Southeastern Louisiana,14.0
+McNeese State,Southeastern Louisiana,6.66666666667
+Sam Houston State,Southeastern Louisiana,13.0
+Nicholls State,Southeastern Louisiana,0.0
+Texas A&M-CC;,New Orleans,3.0
+Lamar,New Orleans,5.0
+Northwestern State,New Orleans,6.5
+McNeese State,New Orleans,1.5
+Sam Houston State,New Orleans,6.0
+Nicholls State,New Orleans,4.33333333333
+Southeastern Louisiana,New Orleans,3.5
+Princeton,Incarnate Word,11.0
+Tulsa,Incarnate Word,29.0
+Texas A&M-CC;,Incarnate Word,2.5
+Lamar,Incarnate Word,3.5
+Northwestern State,Incarnate Word,2.0
+McNeese State,Incarnate Word,2.0
+Sam Houston State,Incarnate Word,6.0
+Nicholls State,Incarnate Word,10.0
+Southeastern Louisiana,Incarnate Word,10.0
+New Orleans,Incarnate Word,31.0
+UC Riverside,Houston Baptist,11.0
+Houston,Houston Baptist,7.0
+Texas A&M-CC;,Houston Baptist,1.0
+Lamar,Houston Baptist,3.0
+Northwestern State,Houston Baptist,21.0
+McNeese State,Houston Baptist,12.0
+Sam Houston State,Houston Baptist,17.0
+Nicholls State,Houston Baptist,4.0
+Southeastern Louisiana,Houston Baptist,20.0
+New Orleans,Houston Baptist,1.0
+Incarnate Word,Houston Baptist,6.0
+Creighton,Central Arkansas,27.0
+Texas A&M-CC;,Central Arkansas,7.0
+Lamar,Central Arkansas,19.0
+Northwestern State,Central Arkansas,9.0
+McNeese State,Central Arkansas,9.5
+Sam Houston State,Central Arkansas,27.5
+Nicholls State,Central Arkansas,8.5
+Southeastern Louisiana,Central Arkansas,11.5
+New Orleans,Central Arkansas,8.5
+Incarnate Word,Central Arkansas,10.0
+Houston Baptist,Central Arkansas,23.0
+Long Beach State,Stephen F Austin,29.0
+CS Northridge,Stephen F Austin,4.0
+Memphis,Stephen F Austin,12.0
+Xavier,Stephen F Austin,18.0
+Texas A&M-CC;,Stephen F Austin,1.0
+Lamar,Stephen F Austin,23.0
+Northwestern State,Stephen F Austin,16.3333333333
+McNeese State,Stephen F Austin,5.0
+Sam Houston State,Stephen F Austin,11.0
+Nicholls State,Stephen F Austin,17.0
+Southeastern Louisiana,Stephen F Austin,15.0
+New Orleans,Stephen F Austin,25.0
+Incarnate Word,Stephen F Austin,17.5
+Houston Baptist,Stephen F Austin,25.5
+Central Arkansas,Stephen F Austin,51.0
+UC Riverside,Abilene Christian ,20.0
+Tulsa,Abilene Christian ,26.0
+Houston,Abilene Christian ,12.0
+Texas A&M-CC;,Abilene Christian ,27.0
+Lamar,Abilene Christian ,14.5
+Northwestern State,Abilene Christian ,14.0
+McNeese State,Abilene Christian ,7.0
+Sam Houston State,Abilene Christian ,19.5
+Nicholls State,Abilene Christian ,17.0
+Southeastern Louisiana,Abilene Christian ,7.0
+New Orleans,Abilene Christian ,20.0
+Incarnate Word,Abilene Christian ,14.0
+Houston Baptist,Abilene Christian ,2.0
+Central Arkansas,Abilene Christian ,17.0
+Stephen F Austin,Abilene Christian ,18.0
+Cal State Fullerton,New Mexico,8.0
+Central Arkansas,New Mexico,21.0
+Cal State Fullerton,Nevada,10.0
+Long Beach State,Nevada,11.0
+Cal Poly,Nevada,16.0
+Seton Hall,Nevada,8.0
+New Mexico,Nevada,3.0
+UC Davis,Utah State,7.0
+New Mexico,Utah State,1.5
+Nevada,Utah State,14.5
+Stetson,Wyoming,24.0
+SMU,Wyoming,13.0
+New Mexico,Wyoming,1.0
+Nevada,Wyoming,7.0
+Utah State,Wyoming,4.33333333333
+UC Irvine,Fresno State,9.0
+Cal Poly,Fresno State,6.0
+East Carolina,Fresno State,6.0
+New Mexico,Fresno State,4.0
+Nevada,Fresno State,3.5
+Utah State,Fresno State,1.5
+Wyoming,Fresno State,0.0
+UC Riverside,San Diego State,28.0
+Long Beach State,San Diego State,1.0
+CS Northridge,San Diego State,21.0
+Cincinnati,San Diego State,9.0
+New Mexico,San Diego State,15.5
+Nevada,San Diego State,13.0
+Utah State,San Diego State,20.0
+Wyoming,San Diego State,10.6666666667
+Fresno State,San Diego State,4.5
+UC Davis,Air Force,6.0
+New Mexico,Air Force,0.333333333333
+Nevada,Air Force,6.5
+Utah State,Air Force,13.0
+Wyoming,Air Force,23.0
+Fresno State,Air Force,2.0
+San Diego State,Air Force,18.0
+UC Santa Barbara,Colorado State,2.0
+Mercer,Colorado State,13.0
+New Mexico,Colorado State,1.0
+Nevada,Colorado State,36.0
+Utah State,Colorado State,5.0
+Wyoming,Colorado State,8.5
+Fresno State,Colorado State,14.3333333333
+San Diego State,Colorado State,5.33333333333
+Air Force,Colorado State,9.0
+Temple,UNLV,7.0
+Albany,UNLV,16.0
+Sam Houston State,UNLV,2.0
+New Mexico,UNLV,3.0
+Nevada,UNLV,8.0
+Utah State,UNLV,8.0
+Wyoming,UNLV,3.5
+Fresno State,UNLV,12.0
+San Diego State,UNLV,3.66666666667
+Air Force,UNLV,5.0
+Colorado State,UNLV,1.0
+Cal State Fullerton,San José State,4.0
+UC Davis,San José State,14.0
+Princeton,San José State,15.0
+New Mexico,San José State,26.0
+Nevada,San José State,7.0
+Utah State,San José State,25.0
+Wyoming,San José State,11.0
+Fresno State,San José State,14.5
+San Diego State,San José State,18.0
+Air Force,San José State,18.0
+Colorado State,San José State,22.5
+UNLV,San José State,23.5
+Houston,Boise State,2.0
+Abilene Christian ,Boise State,44.0
+New Mexico,Boise State,10.5
+Nevada,Boise State,32.0
+Utah State,Boise State,2.0
+Wyoming,Boise State,8.0
+Fresno State,Boise State,6.5
+San Diego State,Boise State,12.5
+Air Force,Boise State,15.3333333333
+Colorado State,Boise State,1.0
+UNLV,Boise State,7.0
+San José State,Boise State,33.5
+South Carolina Upstate,Wright State,5.0
+Cal State Fullerton,Wright State,5.0
+Western Carolina,Wright State,13.0
+Wright State,Cleveland State,10.5
+Western Carolina,Oakland,9.0
+Wright State,Oakland,8.5
+Cleveland State,Oakland,0.5
+DePaul,Milwaukee,22.0
+Wright State,Milwaukee,14.5
+Cleveland State,Milwaukee,10.5
+Oakland,Milwaukee,2.0
+Kennesaw State,Youngstown State,6.0
+Northern Kentucky,Youngstown State,4.0
+UNC Greensboro,Youngstown State,9.0
+Robert Morris,Youngstown State,8.0
+Wright State,Youngstown State,2.0
+Cleveland State,Youngstown State,13.0
+Oakland,Youngstown State,13.5
+Milwaukee,Youngstown State,11.5
+UCF,Detroit,5.0
+South Florida,Detroit,10.0
+Wright State,Detroit,12.0
+Cleveland State,Detroit,6.66666666667
+Oakland,Detroit,7.5
+Milwaukee,Detroit,6.0
+Youngstown State,Detroit,9.66666666667
+East Tennessee State,Valparaiso,14.0
+Maine,Valparaiso,23.0
+New Mexico,Valparaiso,17.0
+Wright State,Valparaiso,8.5
+Cleveland State,Valparaiso,3.33333333333
+Oakland,Valparaiso,4.0
+Milwaukee,Valparaiso,16.0
+Youngstown State,Valparaiso,15.0
+Detroit,Valparaiso,2.5
+Florida Gulf Coast,Green Bay,14.0
+UC Irvine,Green Bay,2.0
+East Carolina,Green Bay,17.0
+Wright State,Green Bay,18.5
+Cleveland State,Green Bay,9.5
+Oakland,Green Bay,8.5
+Milwaukee,Green Bay,13.5
+Youngstown State,Green Bay,8.0
+Detroit,Green Bay,13.0
+Valparaiso,Green Bay,4.33333333333
+Yale,UIC,12.0
+UCF,UIC,11.0
+SMU,UIC,21.0
+DePaul,UIC,1.0
+Wright State,UIC,7.33333333333
+Cleveland State,UIC,6.5
+Oakland,UIC,12.0
+Milwaukee,UIC,8.5
+Youngstown State,UIC,3.5
+Detroit,UIC,4.5
+Valparaiso,UIC,17.0
+Green Bay,UIC,14.0
+UC Irvine,Bradley,8.0
+Memphis,Bradley,28.0
+Robert Morris,Bradley,7.0
+Texas A&M-CC;,Bradley,14.0
+UIC,Bradley,8.0
+Tulane,Loyola (CHI),13.0
+Abilene Christian ,Loyola (CHI),39.0
+Boise State,Loyola (CHI),3.0
+UIC,Loyola (CHI),10.0
+Bradley,Loyola (CHI),10.0
+Yale,Southern Illinois,7.0
+New Orleans,Southern Illinois,4.0
+UIC,Southern Illinois,7.0
+Bradley,Southern Illinois,4.0
+Loyola (CHI),Southern Illinois,1.5
+DePaul,Drake,18.0
+Valparaiso,Drake,20.0
+Green Bay,Drake,16.0
+Bradley,Drake,5.33333333333
+Loyola (CHI),Drake,4.0
+Southern Illinois,Drake,2.0
+Tulsa,Missouri State,4.0
+Colorado State,Missouri State,15.0
+Bradley,Missouri State,0.5
+Loyola (CHI),Missouri State,8.5
+Southern Illinois,Missouri State,0.666666666667
+Drake,Missouri State,5.0
+Brown,Indiana State,12.0
+Memphis,Indiana State,10.0
+Butler,Indiana State,23.0
+Bradley,Indiana State,7.0
+Loyola (CHI),Indiana State,1.0
+Southern Illinois,Indiana State,11.5
+Drake,Indiana State,7.5
+Missouri State,Indiana State,6.5
+North Florida,Northern Iowa,17.0
+Stephen F Austin,Northern Iowa,2.0
+Bradley,Northern Iowa,17.6666666667
+Loyola (CHI),Northern Iowa,14.0
+Southern Illinois,Northern Iowa,11.5
+Drake,Northern Iowa,20.0
+Missouri State,Northern Iowa,12.5
+Indiana State,Northern Iowa,8.0
+Fresno State,Evansville,6.0
+Wright State,Evansville,8.0
+Green Bay,Evansville,2.0
+Bradley,Evansville,3.5
+Loyola (CHI),Evansville,4.0
+Southern Illinois,Evansville,8.5
+Drake,Evansville,2.0
+Missouri State,Evansville,4.5
+Indiana State,Evansville,3.5
+Northern Iowa,Evansville,4.0
+Hawaii,Wichita St,1.0
+Tulsa,Wichita St,20.0
+Memphis,Wichita St,15.0
+Seton Hall,Wichita St,9.0
+Detroit,Wichita St,9.0
+Bradley,Wichita St,11.5
+Loyola (CHI),Wichita St,12.5
+Southern Illinois,Wichita St,15.0
+Drake,Wichita St,21.0
+Missouri State,Wichita St,33.0
+Indiana State,Wichita St,13.5
+Northern Iowa,Wichita St,1.0
+Evansville,Wichita St,19.5
+Seton Hall,Illinois State,4.0
+DePaul,Illinois State,6.0
+Utah State,Illinois State,5.0
+Youngstown State,Illinois State,12.0
+Green Bay,Illinois State,13.0
+Bradley,Illinois State,11.5
+Loyola (CHI),Illinois State,5.0
+Southern Illinois,Illinois State,5.5
+Drake,Illinois State,22.0
+Missouri State,Illinois State,12.0
+Indiana State,Illinois State,1.5
+Northern Iowa,Illinois State,9.66666666667
+Evansville,Illinois State,10.6666666667
+Wichita St,Illinois State,3.66666666667
+Houston,Texas Tech,13.0
+Northwestern State,Texas Tech,11.0
+Fresno State,Texas Tech,17.0
+Air Force,Texas Tech,1.0
+Loyola (CHI),Texas Tech,18.0
+Missouri State,Texas Tech,12.0
+Tulsa,Oklahoma State,15.0
+Memphis,Oklahoma State,18.0
+Southeastern Louisiana,Oklahoma State,28.0
+Milwaukee,Oklahoma State,14.0
+Texas Tech,Oklahoma State,9.5
+Northern Kentucky,West Virginia,25.0
+Connecticut,West Virginia,10.0
+Wofford,West Virginia,33.0
+VMI,West Virginia,31.0
+Texas Tech,West Virginia,15.0
+Oklahoma State,West Virginia,9.5
+Memphis,Baylor,24.0
+McNeese State,Baylor,41.0
+Stephen F Austin,Baylor,16.0
+Texas Tech,Baylor,4.0
+Oklahoma State,Baylor,10.0
+West Virginia,Baylor,13.3333333333
+UC Santa Barbara,Kansas,10.0
+Temple,Kansas,25.0
+Georgetown,Kansas,5.0
+UNLV,Kansas,15.0
+Texas Tech,Kansas,27.0
+Oklahoma State,Kansas,2.5
+West Virginia,Kansas,3.0
+Baylor,Kansas,7.0
+Long Beach State,Kansas State,9.0
+Bradley,Kansas State,3.0
+Texas Tech,Kansas State,5.0
+Oklahoma State,Kansas State,2.0
+West Virginia,Kansas State,5.0
+Baylor,Kansas State,12.5
+Kansas,Kansas State,2.0
+Furman,TCU,11.0
+McNeese State,TCU,18.0
+New Orleans,TCU,15.0
+Bradley,TCU,8.0
+Texas Tech,TCU,18.5
+Oklahoma State,TCU,1.5
+West Virginia,TCU,6.0
+Baylor,TCU,13.5
+Kansas,TCU,5.66666666667
+Kansas State,TCU,3.66666666667
+Lipscomb,Texas,45.0
+Long Beach State,Texas,10.0
+Connecticut,Texas,1.0
+St Francis (PA),Texas,32.0
+Texas Tech,Texas,12.0
+Oklahoma State,Texas,6.5
+West Virginia,Texas,10.0
+Baylor,Texas,10.5
+Kansas,Texas,9.0
+Kansas State,Texas,8.5
+TCU,Texas,20.5
+Lamar,Iowa State,37.0
+Oakland,Iowa State,11.0
+Drake,Iowa State,29.0
+Texas Tech,Iowa State,16.0
+Oklahoma State,Iowa State,3.5
+West Virginia,Iowa State,11.0
+Baylor,Iowa State,5.0
+Kansas,Iowa State,1.33333333333
+Kansas State,Iowa State,2.5
+TCU,Iowa State,15.0
+Texas,Iowa State,4.33333333333
+Tulsa,Oklahoma,19.0
+Creighton,Oklahoma,2.0
+Butler,Oklahoma,13.0
+Northwestern State,Oklahoma,22.0
+Southeastern Louisiana,Oklahoma,25.0
+Texas Tech,Oklahoma,24.5
+Oklahoma State,Oklahoma,13.3333333333
+West Virginia,Oklahoma,1.0
+Baylor,Oklahoma,0.5
+Kansas,Oklahoma,2.5
+Kansas State,Oklahoma,3.0
+TCU,Oklahoma,9.5
+Texas,Oklahoma,11.5
+Iowa State,Oklahoma,0.666666666667
+North Florida,Tennessee Tech,2.5
+Lipscomb,Tennessee Tech,5.0
+Tulane,Tennessee Tech,5.0
+Chattanooga,Tennessee Tech,2.0
+East Tennessee State,Tennessee Tech,8.0
+Southeastern Louisiana,Tennessee Tech,1.0
+North Florida,Austin Peay,5.0
+Lipscomb,Austin Peay,7.5
+Brown,Austin Peay,21.0
+Samford,Austin Peay,1.0
+Stephen F Austin,Austin Peay,21.0
+Southern Illinois,Austin Peay,22.0
+Indiana State,Austin Peay,4.0
+Tennessee Tech,Austin Peay,16.0
+Milwaukee,SIU-Edwardsville,5.0
+Southern Illinois,SIU-Edwardsville,12.0
+Tennessee Tech,SIU-Edwardsville,23.0
+Austin Peay,SIU-Edwardsville,0.5
+Kennesaw State,Tennessee State,11.0
+Lipscomb,Tennessee State,9.0
+St Francis (BKN),Tennessee State,2.0
+Southern Illinois,Tennessee State,12.0
+TCU,Tennessee State,20.0
+Tennessee Tech,Tennessee State,5.5
+Austin Peay,Tennessee State,1.0
+SIU-Edwardsville,Tennessee State,7.0
+East Tennessee State,Eastern Kentucky,3.0
+Valparaiso,Eastern Kentucky,6.0
+Tennessee Tech,Eastern Kentucky,0.5
+Austin Peay,Eastern Kentucky,12.0
+SIU-Edwardsville,Eastern Kentucky,16.0
+Tennessee State,Eastern Kentucky,16.5
+Northern Kentucky,Tennessee-Martin,15.0
+Butler,Tennessee-Martin,27.0
+Marquette,Tennessee-Martin,16.0
+UIC,Tennessee-Martin,3.0
+Illinois State,Tennessee-Martin,10.0
+Tennessee Tech,Tennessee-Martin,3.0
+Austin Peay,Tennessee-Martin,9.0
+SIU-Edwardsville,Tennessee-Martin,1.5
+Tennessee State,Tennessee-Martin,17.0
+Eastern Kentucky,Tennessee-Martin,8.0
+UC Davis,Eastern Illinois,6.0
+Cincinnati,Eastern Illinois,5.0
+Creighton,Eastern Illinois,22.0
+Cleveland State,Eastern Illinois,2.0
+Missouri State,Eastern Illinois,11.0
+Indiana State,Eastern Illinois,4.0
+Tennessee Tech,Eastern Illinois,2.0
+Austin Peay,Eastern Illinois,3.5
+SIU-Edwardsville,Eastern Illinois,0.666666666667
+Tennessee State,Eastern Illinois,7.0
+Eastern Kentucky,Eastern Illinois,7.0
+Tennessee-Martin,Eastern Illinois,16.0
+Lipscomb,Belmont,15.0
+Butler,Belmont,11.0
+Wright State,Belmont,5.5
+Evansville,Belmont,3.0
+Tennessee Tech,Belmont,12.0
+Austin Peay,Belmont,6.0
+SIU-Edwardsville,Belmont,4.0
+Tennessee State,Belmont,17.0
+Eastern Kentucky,Belmont,2.0
+Tennessee-Martin,Belmont,5.0
+Eastern Illinois,Belmont,11.0
+Jacksonville,Jacksonville State,14.0
+Dartmouth,Jacksonville State,12.0
+Memphis,Jacksonville State,26.0
+Air Force,Jacksonville State,1.0
+Cleveland State,Jacksonville State,14.0
+Tennessee Tech,Jacksonville State,0.5
+Austin Peay,Jacksonville State,12.0
+SIU-Edwardsville,Jacksonville State,16.0
+Tennessee State,Jacksonville State,1.5
+Eastern Kentucky,Jacksonville State,1.0
+Tennessee-Martin,Jacksonville State,3.0
+Eastern Illinois,Jacksonville State,9.0
+Belmont,Jacksonville State,9.5
+Southeastern Louisiana,Southeast Missouri State,4.0
+Central Arkansas,Southeast Missouri State,6.0
+Southern Illinois,Southeast Missouri State,1.0
+Missouri State,Southeast Missouri State,12.0
+Tennessee Tech,Southeast Missouri State,4.0
+Austin Peay,Southeast Missouri State,15.0
+SIU-Edwardsville,Southeast Missouri State,8.5
+Tennessee State,Southeast Missouri State,15.0
+Eastern Kentucky,Southeast Missouri State,13.0
+Tennessee-Martin,Southeast Missouri State,2.5
+Eastern Illinois,Southeast Missouri State,2.0
+Belmont,Southeast Missouri State,1.0
+Jacksonville State,Southeast Missouri State,17.0
+Tulsa,Murray State,21.0
+Houston,Murray State,3.0
+Xavier,Murray State,27.0
+Valparaiso,Murray State,35.0
+Southern Illinois,Murray State,12.0
+Drake,Murray State,9.0
+Evansville,Murray State,2.0
+Illinois State,Murray State,12.0
+Tennessee Tech,Murray State,16.0
+Austin Peay,Murray State,22.5
+SIU-Edwardsville,Murray State,19.0
+Tennessee State,Murray State,19.0
+Eastern Kentucky,Murray State,7.0
+Tennessee-Martin,Murray State,4.5
+Eastern Illinois,Murray State,11.5
+Belmont,Murray State,7.0
+Jacksonville State,Murray State,27.0
+Southeast Missouri State,Murray State,6.0
+Northern Kentucky,Morehead State,23.0
+Cincinnati,Morehead State,8.0
+East Tennessee State,Morehead State,4.0
+Central Arkansas,Morehead State,35.0
+UNLV,Morehead State,1.0
+Oakland,Morehead State,2.0
+Green Bay,Morehead State,16.0
+Tennessee Tech,Morehead State,8.5
+Austin Peay,Morehead State,13.0
+SIU-Edwardsville,Morehead State,28.0
+Tennessee State,Morehead State,15.5
+Eastern Kentucky,Morehead State,10.5
+Tennessee-Martin,Morehead State,4.0
+Eastern Illinois,Morehead State,3.0
+Belmont,Morehead State,0.5
+Jacksonville State,Morehead State,17.5
+Southeast Missouri State,Morehead State,9.0
+Murray State,Morehead State,6.0
+Wright State,Miami (OH),9.0
+Evansville,Miami (OH),19.0
+San Diego State,Ball State,13.0
+Valparaiso,Ball State,3.0
+Indiana State,Ball State,7.0
+Eastern Illinois,Ball State,7.0
+Miami (OH),Ball State,6.0
+Long Beach State,Western Michigan,18.0
+New Hampshire,Western Michigan,14.0
+San José State,Western Michigan,19.0
+Oakland,Western Michigan,11.0
+Drake,Western Michigan,16.0
+Miami (OH),Western Michigan,11.0
+Ball State,Western Michigan,3.5
+Cornell,Buffalo,19.0
+Robert Morris,Buffalo,15.0
+Binghamton,Buffalo,26.0
+Miami (OH),Buffalo,8.0
+Ball State,Buffalo,4.0
+Western Michigan,Buffalo,2.0
+Northern Kentucky,Toledo,2.0
+Robert Morris,Toledo,26.0
+McNeese State,Toledo,14.0
+Cleveland State,Toledo,5.0
+Oakland,Toledo,2.0
+Detroit,Toledo,3.0
+Miami (OH),Toledo,5.0
+Ball State,Toledo,11.0
+Western Michigan,Toledo,3.5
+Buffalo,Toledo,4.0
+Maine,Central Michigan,28.0
+McNeese State,Central Michigan,29.0
+Youngstown State,Central Michigan,12.0
+Bradley,Central Michigan,11.0
+SIU-Edwardsville,Central Michigan,33.0
+Miami (OH),Central Michigan,28.0
+Ball State,Central Michigan,2.5
+Western Michigan,Central Michigan,3.5
+Buffalo,Central Michigan,2.33333333333
+Toledo,Central Michigan,6.66666666667
+UNC Greensboro,Eastern Michigan,8.0
+Oakland,Eastern Michigan,12.0
+Youngstown State,Eastern Michigan,9.0
+Missouri State,Eastern Michigan,12.0
+Miami (OH),Eastern Michigan,4.66666666667
+Ball State,Eastern Michigan,3.0
+Western Michigan,Eastern Michigan,1.0
+Buffalo,Eastern Michigan,15.0
+Toledo,Eastern Michigan,3.0
+Central Michigan,Eastern Michigan,15.0
+South Florida,Bowling Green,9.0
+Wright State,Bowling Green,15.0
+Cleveland State,Bowling Green,10.0
+Detroit,Bowling Green,1.0
+Drake,Bowling Green,19.0
+Southeast Missouri State,Bowling Green,8.0
+Miami (OH),Bowling Green,3.0
+Ball State,Bowling Green,12.3333333333
+Western Michigan,Bowling Green,16.0
+Buffalo,Bowling Green,7.0
+Toledo,Bowling Green,4.0
+Central Michigan,Bowling Green,2.0
+Eastern Michigan,Bowling Green,5.0
+UC Riverside,Northern Illinois,5.0
+Dartmouth,Northern Illinois,3.0
+DePaul,Northern Illinois,11.0
+Maine,Northern Illinois,5.0
+Eastern Illinois,Northern Illinois,4.0
+Miami (OH),Northern Illinois,1.5
+Ball State,Northern Illinois,8.0
+Western Michigan,Northern Illinois,1.0
+Buffalo,Northern Illinois,19.0
+Toledo,Northern Illinois,4.5
+Central Michigan,Northern Illinois,8.0
+Eastern Michigan,Northern Illinois,8.0
+Bowling Green,Northern Illinois,7.0
+Bryant,Akron,6.0
+UMBC,Akron,17.0
+Miami (OH),Akron,6.0
+Ball State,Akron,12.0
+Western Michigan,Akron,11.6666666667
+Buffalo,Akron,3.66666666667
+Toledo,Akron,9.5
+Central Michigan,Akron,6.0
+Eastern Michigan,Akron,3.0
+Bowling Green,Akron,9.0
+Northern Illinois,Akron,10.5
+Kennesaw State,Kent State,12.0
+Yale,Kent State,7.0
+Youngstown State,Kent State,8.0
+UIC,Kent State,18.0
+Loyola (CHI),Kent State,8.0
+Southern Illinois,Kent State,23.0
+Kansas,Kent State,16.0
+Miami (OH),Kent State,2.0
+Ball State,Kent State,8.0
+Western Michigan,Kent State,1.0
+Buffalo,Kent State,15.5
+Toledo,Kent State,4.0
+Central Michigan,Kent State,10.0
+Eastern Michigan,Kent State,6.0
+Bowling Green,Kent State,0.5
+Northern Illinois,Kent State,2.0
+Akron,Kent State,3.0
+Florida Gulf Coast,Ohio,17.0
+DePaul,Ohio,21.0
+Evansville,Ohio,12.0
+Belmont,Ohio,2.0
+Miami (OH),Ohio,9.5
+Ball State,Ohio,9.0
+Western Michigan,Ohio,9.5
+Buffalo,Ohio,12.5
+Toledo,Ohio,7.0
+Central Michigan,Ohio,8.0
+Eastern Michigan,Ohio,16.5
+Bowling Green,Ohio,13.0
+Northern Illinois,Ohio,10.0
+Akron,Ohio,5.5
+Kent State,Ohio,11.5
+South Carolina Upstate,Georgia Tech,5.0
+Marquette,Georgia Tech,2.0
+Harvard,Boston College,7.0
+Providence,Boston College,9.0
+Maine,Boston College,11.0
+UMass Lowell,Boston College,23.0
+Binghamton,Boston College,14.0
+New Hampshire,Boston College,8.0
+New Mexico,Boston College,4.0
+West Virginia,Boston College,4.0
+Georgia Tech,Boston College,1.5
+Harvard,Virginia,49.0
+Cleveland State,Virginia,18.0
+Tennessee State,Virginia,43.0
+Georgia Tech,Virginia,29.0
+Boston College,Virginia,15.0
+Florida Gulf Coast,Pittsburgh,17.0
+Hawaii,Pittsburgh,4.0
+Samford,Pittsburgh,7.0
+Bryant,Pittsburgh,5.0
+San Diego State,Pittsburgh,17.0
+Oakland,Pittsburgh,4.0
+Kansas State,Pittsburgh,23.0
+Georgia Tech,Pittsburgh,5.0
+Boston College,Pittsburgh,3.5
+Virginia,Pittsburgh,12.0
+Providence,Notre Dame,1.0
+Fairleigh Dickinson,Notre Dame,18.0
+Mount St Mary's,Notre Dame,26.0
+Binghamton,Notre Dame,43.0
+Hartford,Notre Dame,27.0
+Northern Illinois,Notre Dame,25.0
+Georgia Tech,Notre Dame,5.0
+Boston College,Notre Dame,12.5
+Virginia,Notre Dame,6.0
+Pittsburgh,Notre Dame,4.0
+The Citadel,Virginia Tech,3.0
+VMI,Virginia Tech,13.0
+Northern Iowa,Virginia Tech,19.0
+West Virginia,Virginia Tech,31.0
+Miami (OH),Virginia Tech,15.0
+Georgia Tech,Virginia Tech,2.0
+Boston College,Virginia Tech,7.0
+Virginia,Virginia Tech,7.5
+Pittsburgh,Virginia Tech,3.0
+Notre Dame,Virginia Tech,25.0
+Long Beach State,Louisville,15.0
+CS Northridge,Louisville,25.0
+Cleveland State,Louisville,12.0
+Jacksonville State,Louisville,49.0
+Georgia Tech,Louisville,1.0
+Boston College,Louisville,9.0
+Virginia,Louisville,1.5
+Pittsburgh,Louisville,12.5
+Notre Dame,Louisville,12.0
+Virginia Tech,Louisville,15.0
+Connecticut,Duke,10.0
+Temple,Duke,20.0
+St John's,Duke,9.0
+Wofford,Duke,29.0
+Furman,Duke,39.0
+Toledo,Duke,17.0
+Georgia Tech,Duke,6.0
+Boston College,Duke,23.0
+Virginia,Duke,6.0
+Pittsburgh,Duke,14.0
+Notre Dame,Duke,5.33333333333
+Virginia Tech,Duke,5.0
+Louisville,Duke,11.0
+Princeton,Wake Forest,14.0
+Tulane,Wake Forest,22.0
+Samford,Wake Forest,18.0
+Mount St Mary's,Wake Forest,34.0
+Nicholls State,Wake Forest,27.0
+Georgia Tech,Wake Forest,3.5
+Boston College,Wake Forest,18.0
+Virginia,Wake Forest,18.5
+Pittsburgh,Wake Forest,3.0
+Notre Dame,Wake Forest,13.0
+Virginia Tech,Wake Forest,1.0
+Louisville,Wake Forest,9.0
+Duke,Wake Forest,25.5
+Kennesaw State,Syracuse,47.0
+Long Beach State,Syracuse,18.0
+Cornell,Syracuse,17.0
+Villanova,Syracuse,5.0
+St John's,Syracuse,12.0
+Georgia Tech,Syracuse,1.0
+Boston College,Syracuse,11.0
+Virginia,Syracuse,12.0
+Pittsburgh,Syracuse,5.0
+Notre Dame,Syracuse,5.0
+Virginia Tech,Syracuse,2.0
+Louisville,Syracuse,10.0
+Duke,Syracuse,13.5
+Wake Forest,Syracuse,3.0
+Jacksonville,NC State,36.0
+Cincinnati,NC State,16.0
+South Florida,NC State,3.0
+Wofford,NC State,1.0
+Boise State,NC State,6.0
+West Virginia,NC State,14.0
+Georgia Tech,NC State,1.0
+Boston College,NC State,16.0
+Virginia,NC State,7.0
+Pittsburgh,NC State,14.5
+Notre Dame,NC State,3.0
+Virginia Tech,NC State,16.0
+Louisville,NC State,9.0
+Duke,NC State,6.0
+Wake Forest,NC State,4.5
+Syracuse,NC State,14.0
+Temple,Miami (FL),3.0
+Providence,Miami (FL),14.0
+Green Bay,Miami (FL),13.0
+Eastern Kentucky,Miami (FL),28.0
+Akron,Miami (FL),28.0
+Georgia Tech,Miami (FL),20.0
+Boston College,Miami (FL),3.5
+Virginia,Miami (FL),9.0
+Pittsburgh,Miami (FL),4.0
+Notre Dame,Miami (FL),6.0
+Virginia Tech,Miami (FL),18.3333333333
+Louisville,Miami (FL),5.0
+Duke,Miami (FL),16.0
+Wake Forest,Miami (FL),2.0
+Syracuse,Miami (FL),4.0
+NC State,Miami (FL),5.0
+East Carolina,North Carolina,44.0
+Butler,North Carolina,8.0
+UNC Greensboro,North Carolina,23.0
+Robert Morris,North Carolina,44.0
+Georgia Tech,North Carolina,30.5
+Boston College,North Carolina,14.5
+Virginia,North Carolina,3.5
+Pittsburgh,North Carolina,13.0
+Notre Dame,North Carolina,4.5
+Virginia Tech,North Carolina,15.0
+Louisville,North Carolina,0.333333333333
+Duke,North Carolina,4.5
+Wake Forest,North Carolina,16.0
+Syracuse,North Carolina,10.0
+NC State,North Carolina,5.0
+Miami (FL),North Carolina,9.0
+Robert Morris,Clemson,7.0
+Nevada,Clemson,9.0
+Oakland,Clemson,10.0
+Georgia Tech,Clemson,2.0
+Boston College,Clemson,15.0
+Virginia,Clemson,23.0
+Pittsburgh,Clemson,9.0
+Notre Dame,Clemson,8.0
+Virginia Tech,Clemson,21.0
+Louisville,Clemson,6.0
+Duke,Clemson,22.0
+Wake Forest,Clemson,2.0
+Syracuse,Clemson,13.0
+NC State,Clemson,3.0
+Miami (FL),Clemson,11.0
+North Carolina,Clemson,24.0
+Stetson,Florida State,4.0
+North Florida,Florida State,16.0
+UCF,Florida State,23.0
+South Florida,Florida State,13.0
+Providence,Florida State,26.0
+The Citadel,Florida State,11.0
+Georgia Tech,Florida State,4.0
+Boston College,Florida State,9.0
+Virginia,Florida State,12.0
+Pittsburgh,Florida State,0.0
+Notre Dame,Florida State,20.0
+Virginia Tech,Florida State,9.5
+Louisville,Florida State,22.0
+Duke,Florida State,3.0
+Wake Forest,Florida State,6.0
+Syracuse,Florida State,13.0
+NC State,Florida State,9.0
+Miami (FL),Florida State,1.5
+North Carolina,Florida State,4.0
+Clemson,Florida State,0.333333333333
+Lamar,Texas State,10.0
+Stephen F Austin,Texas State,6.0
+Texas,Texas State,32.0
+Jacksonville,Appalachian State,11.0
+Furman,Appalachian State,19.0
+Ohio,Appalachian State,26.0
+Georgia Tech,Appalachian State,13.0
+Virginia Tech,Appalachian State,2.0
+Texas State,Appalachian State,4.5
+Lamar,Arkansas State,5.0
+Central Arkansas,Arkansas State,18.0
+Tennessee-Martin,Arkansas State,2.0
+Toledo,Arkansas State,8.0
+Texas State,Arkansas State,2.5
+Appalachian State,Arkansas State,4.0
+Nicholls State,Troy,1.0
+Central Arkansas,Troy,12.0
+Austin Peay,Troy,3.0
+Texas State,Troy,8.5
+Appalachian State,Troy,4.0
+Arkansas State,Troy,2.0
+Samford,Louisiana Monroe,14.0
+Robert Morris,Louisiana Monroe,17.0
+Northwestern State,Louisiana Monroe,8.0
+New Mexico,Louisiana Monroe,8.0
+Texas State,Louisiana Monroe,3.0
+Appalachian State,Louisiana Monroe,6.0
+Arkansas State,Louisiana Monroe,3.5
+Troy,Louisiana Monroe,6.0
+Tulsa,Louisiana Lafayette,11.0
+Northwestern State,Louisiana Lafayette,4.0
+McNeese State,Louisiana Lafayette,10.0
+Milwaukee,Louisiana Lafayette,4.0
+Texas State,Louisiana Lafayette,13.6666666667
+Appalachian State,Louisiana Lafayette,15.5
+Arkansas State,Louisiana Lafayette,30.5
+Troy,Louisiana Lafayette,15.5
+Louisiana Monroe,Louisiana Lafayette,7.0
+CS Northridge,Arkansas-Little Rock,6.0
+Tulsa,Arkansas-Little Rock,5.0
+Central Arkansas,Arkansas-Little Rock,14.0
+Green Bay,Arkansas-Little Rock,20.0
+Bradley,Arkansas-Little Rock,10.0
+Missouri State,Arkansas-Little Rock,5.0
+Kent State,Arkansas-Little Rock,5.0
+Texas State,Arkansas-Little Rock,2.5
+Appalachian State,Arkansas-Little Rock,11.5
+Arkansas State,Arkansas-Little Rock,11.5
+Troy,Arkansas-Little Rock,6.5
+Louisiana Monroe,Arkansas-Little Rock,14.0
+Louisiana Lafayette,Arkansas-Little Rock,5.0
+UC Irvine,UT-Arlington,8.0
+Houston Baptist,UT-Arlington,18.0
+Bradley,UT-Arlington,11.0
+Texas,UT-Arlington,10.0
+Buffalo,UT-Arlington,6.0
+Texas State,UT-Arlington,4.66666666667
+Appalachian State,UT-Arlington,0.5
+Arkansas State,UT-Arlington,13.0
+Troy,UT-Arlington,3.0
+Louisiana Monroe,UT-Arlington,0.5
+Louisiana Lafayette,UT-Arlington,2.0
+Arkansas-Little Rock,UT-Arlington,8.0
+Stetson,Georgia Southern,9.0
+UCF,Georgia Southern,2.0
+South Florida,Georgia Southern,5.0
+Texas State,Georgia Southern,3.0
+Appalachian State,Georgia Southern,28.0
+Arkansas State,Georgia Southern,8.5
+Troy,Georgia Southern,3.5
+Louisiana Monroe,Georgia Southern,0.666666666667
+Louisiana Lafayette,Georgia Southern,1.0
+Arkansas-Little Rock,Georgia Southern,8.5
+UT-Arlington,Georgia Southern,5.5
+Western Carolina,Georgia State,15.0
+Colorado State,Georgia State,10.0
+Oakland,Georgia State,5.0
+Green Bay,Georgia State,3.5
+Iowa State,Georgia State,23.0
+Texas State,Georgia State,4.5
+Appalachian State,Georgia State,19.5
+Arkansas State,Georgia State,18.5
+Troy,Georgia State,8.0
+Louisiana Monroe,Georgia State,14.0
+Louisiana Lafayette,Georgia State,3.66666666667
+Arkansas-Little Rock,Georgia State,2.0
+UT-Arlington,Georgia State,17.5
+Georgia Southern,Georgia State,5.0
+Detroit,South Alabama,13.0
+Miami (FL),South Alabama,12.0
+Texas State,South Alabama,15.5
+Appalachian State,South Alabama,1.0
+Arkansas State,South Alabama,1.0
+Troy,South Alabama,3.5
+Louisiana Monroe,South Alabama,14.0
+Louisiana Lafayette,South Alabama,5.5
+Arkansas-Little Rock,South Alabama,2.33333333333
+UT-Arlington,South Alabama,3.0
+Georgia Southern,South Alabama,7.0
+Georgia State,South Alabama,19.5
+Creighton,Chicago State,18.0
+DePaul,Chicago State,24.0
+Western Carolina,Chicago State,5.0
+Oakland,Chicago State,13.0
+Green Bay,Chicago State,4.0
+Southern Illinois,Chicago State,15.0
+SIU-Edwardsville,Chicago State,25.0
+Toledo,Chicago State,28.0
+Bowling Green,Chicago State,23.0
+Notre Dame,Chicago State,48.0
+Georgia State,Chicago State,23.0
+Houston,UT-Rio Grande Valley,14.0
+Creighton,UT-Rio Grande Valley,15.0
+Lamar,UT-Rio Grande Valley,6.0
+Sam Houston State,UT-Rio Grande Valley,19.0
+Kent State,UT-Rio Grande Valley,20.0
+Chicago State,UT-Rio Grande Valley,0.0
+UC Riverside,Grand Canyon,2.0
+Harvard,Grand Canyon,13.0
+Incarnate Word,Grand Canyon,2.0
+Abilene Christian ,Grand Canyon,2.0
+New Mexico,Grand Canyon,3.0
+UIC,Grand Canyon,5.0
+Buffalo,Grand Canyon,16.0
+Central Michigan,Grand Canyon,2.0
+UT-Arlington,Grand Canyon,2.0
+Chicago State,Grand Canyon,2.5
+UT-Rio Grande Valley,Grand Canyon,2.0
+UC Davis,Utah Valley,21.0
+Utah State,Utah Valley,3.0
+Chicago State,Utah Valley,2.5
+UT-Rio Grande Valley,Utah Valley,20.5
+Grand Canyon,Utah Valley,17.5
+Cal State Fullerton,Seattle,12.0
+UC Davis,Seattle,9.0
+UC Santa Barbara,Seattle,41.0
+CS Northridge,Seattle,12.0
+San José State,Seattle,16.0
+Texas State,Seattle,9.0
+Chicago State,Seattle,12.6666666667
+UT-Rio Grande Valley,Seattle,6.0
+Grand Canyon,Seattle,7.5
+Utah Valley,Seattle,1.0
+UC Riverside,CSU Bakersfield,1.0
+Hawaii,CSU Bakersfield,7.0
+Utah State,CSU Bakersfield,1.0
+Fresno State,CSU Bakersfield,2.0
+San Diego State,CSU Bakersfield,24.0
+Chicago State,CSU Bakersfield,14.5
+UT-Rio Grande Valley,CSU Bakersfield,12.5
+Grand Canyon,CSU Bakersfield,5.0
+Utah Valley,CSU Bakersfield,4.33333333333
+Seattle,CSU Bakersfield,0.0
+Stetson,New Mexico State,20.0
+UC Irvine,New Mexico State,3.0
+New Mexico,New Mexico State,8.5
+Wyoming,New Mexico State,3.0
+Colorado State,New Mexico State,1.0
+Wichita St,New Mexico State,17.0
+Baylor,New Mexico State,11.0
+Chicago State,New Mexico State,6.0
+UT-Rio Grande Valley,New Mexico State,13.0
+Grand Canyon,New Mexico State,19.5
+Utah Valley,New Mexico State,19.0
+Seattle,New Mexico State,13.0
+CSU Bakersfield,New Mexico State,12.0
+South Carolina Upstate,UMKC,12.0
+Samford,UMKC,9.0
+Incarnate Word,UMKC,6.0
+Milwaukee,UMKC,9.0
+Youngstown State,UMKC,3.0
+Indiana State,UMKC,3.0
+Kansas State,UMKC,10.0
+Iowa State,UMKC,17.0
+Tennessee Tech,UMKC,21.0
+Miami (OH),UMKC,5.0
+Arkansas-Little Rock,UMKC,5.0
+Chicago State,UMKC,6.5
+UT-Rio Grande Valley,UMKC,10.6666666667
+Grand Canyon,UMKC,8.0
+Utah Valley,UMKC,13.0
+Seattle,UMKC,1.33333333333
+CSU Bakersfield,UMKC,0.5
+New Mexico State,UMKC,16.0
+Hawaii,Arkansas-Pine Bluff,28.0
+Houston,Arkansas-Pine Bluff,5.0
+Abilene Christian ,Arkansas-Pine Bluff,8.0
+Air Force,Arkansas-Pine Bluff,33.0
+Valparaiso,Arkansas-Pine Bluff,13.0
+Texas Tech,Arkansas-Pine Bluff,21.0
+Central Michigan,Arkansas-Pine Bluff,32.0
+Akron,Arkansas-Pine Bluff,21.0
+Ohio,Arkansas-Pine Bluff,9.0
+CSU Bakersfield,Arkansas-Pine Bluff,7.0
+Hawaii,Southern,14.0
+Tulane,Southern,15.0
+Wyoming,Southern,18.0
+Baylor,Southern,4.0
+Iowa State,Southern,10.0
+Eastern Illinois,Southern,11.0
+Arkansas-Pine Bluff,Southern,14.0
+Air Force,Grambling State,25.0
+TCU,Grambling State,41.0
+Ball State,Grambling State,42.0
+Notre Dame,Grambling State,27.0
+Arkansas-Pine Bluff,Grambling State,10.5
+Southern,Grambling State,7.0
+SMU,Texas Southern,13.0
+Lamar,Texas Southern,12.0
+Baylor,Texas Southern,26.0
+Kansas State,Texas Southern,2.0
+New Mexico State,Texas Southern,2.0
+Arkansas-Pine Bluff,Texas Southern,1.0
+Southern,Texas Southern,5.0
+Grambling State,Texas Southern,16.0
+Tulane,Mississippi Valley State,39.0
+Houston,Mississippi Valley State,27.0
+Texas A&M-CC;,Mississippi Valley State,9.0
+TCU,Mississippi Valley State,53.0
+Iowa State,Mississippi Valley State,50.0
+Northern Illinois,Mississippi Valley State,7.0
+Arkansas-Pine Bluff,Mississippi Valley State,7.5
+Southern,Mississippi Valley State,18.0
+Grambling State,Mississippi Valley State,3.5
+Texas Southern,Mississippi Valley State,5.5
+Evansville,Alabama State,18.0
+Jacksonville State,Alabama State,25.0
+UT-Rio Grande Valley,Alabama State,12.0
+Arkansas-Pine Bluff,Alabama State,10.5
+Southern,Alabama State,1.33333333333
+Grambling State,Alabama State,26.5
+Texas Southern,Alabama State,12.0
+Mississippi Valley State,Alabama State,10.6666666667
+Hawaii,Prairie View A&M;,8.0
+Brown,Prairie View A&M;,10.0
+Memphis,Prairie View A&M;,28.0
+Sam Houston State,Prairie View A&M;,17.0
+Stephen F Austin,Prairie View A&M;,12.0
+Texas Tech,Prairie View A&M;,28.0
+Oklahoma State,Prairie View A&M;,22.0
+Baylor,Prairie View A&M;,15.0
+TCU,Prairie View A&M;,17.0
+Texas State,Prairie View A&M;,16.0
+Arkansas-Pine Bluff,Prairie View A&M;,8.0
+Southern,Prairie View A&M;,8.0
+Grambling State,Prairie View A&M;,32.5
+Texas Southern,Prairie View A&M;,4.66666666667
+Mississippi Valley State,Prairie View A&M;,8.5
+Alabama State,Prairie View A&M;,0.0
+Jacksonville,Jackson State,9.0
+Tulane,Jackson State,7.0
+South Florida,Jackson State,9.0
+Loyola (CHI),Jackson State,12.0
+Drake,Jackson State,10.0
+NC State,Jackson State,35.0
+Louisiana Lafayette,Jackson State,23.0
+Arkansas-Pine Bluff,Jackson State,11.0
+Southern,Jackson State,1.0
+Grambling State,Jackson State,25.0
+Texas Southern,Jackson State,7.0
+Mississippi Valley State,Jackson State,5.5
+Alabama State,Jackson State,20.0
+Prairie View A&M;,Jackson State,9.0
+Kennesaw State,Alcorn State,3.0
+Texas,Alcorn State,32.0
+Murray State,Alcorn State,38.0
+Ohio,Alcorn State,11.0
+Troy,Alcorn State,21.0
+Arkansas-Pine Bluff,Alcorn State,4.5
+Southern,Alcorn State,8.5
+Grambling State,Alcorn State,10.0
+Texas Southern,Alcorn State,19.6666666667
+Mississippi Valley State,Alcorn State,2.0
+Alabama State,Alcorn State,14.0
+Prairie View A&M;,Alcorn State,1.5
+Jackson State,Alcorn State,10.0
+Marquette,Alabama A&M;,34.0
+Jacksonville State,Alabama A&M;,6.0
+Southeast Missouri State,Alabama A&M;,34.0
+Murray State,Alabama A&M;,37.0
+Western Michigan,Alabama A&M;,9.0
+Bowling Green,Alabama A&M;,17.0
+Georgia Tech,Alabama A&M;,20.0
+Virginia Tech,Alabama A&M;,10.0
+Arkansas-Pine Bluff,Alabama A&M;,4.0
+Southern,Alabama A&M;,6.66666666667
+Grambling State,Alabama A&M;,12.5
+Texas Southern,Alabama A&M;,2.5
+Mississippi Valley State,Alabama A&M;,9.5
+Alabama State,Alabama A&M;,3.0
+Prairie View A&M;,Alabama A&M;,14.5
+Jackson State,Alabama A&M;,10.5
+Alcorn State,Alabama A&M;,8.0
+Dartmouth,Penn State,20.0
+Cornell,Penn State,1.0
+Akron,Penn State,6.0
+Virginia Tech,Penn State,3.0
+Marquette,Michigan State,11.0
+The Citadel,Michigan State,26.0
+Oakland,Michigan State,26.0
+Loyola (CHI),Michigan State,35.0
+Kansas,Michigan State,5.0
+Eastern Michigan,Michigan State,20.0
+Notre Dame,Michigan State,1.0
+Duke,Michigan State,10.0
+Arkansas-Pine Bluff,Michigan State,33.0
+Texas Southern,Michigan State,7.0
+Penn State,Michigan State,6.0
+SMU,Michigan,11.0
+Villanova,Michigan,5.0
+Nicholls State,Michigan,29.0
+Detroit,Michigan,9.0
+Eastern Michigan,Michigan,3.0
+Syracuse,Michigan,3.0
+Penn State,Michigan,9.0
+Michigan State,Michigan,11.5
+Seton Hall,Rutgers,27.0
+St Francis (PA),Rutgers,5.0
+Sacred Heart,Rutgers,25.0
+Fairleigh Dickinson,Rutgers,17.0
+St Francis (BKN),Rutgers,3.0
+New Hampshire,Rutgers,4.0
+Virginia,Rutgers,19.0
+Clemson,Rutgers,5.0
+Penn State,Rutgers,12.0
+Michigan State,Rutgers,20.0
+Michigan,Rutgers,7.0
+Northern Kentucky,Northwestern,21.0
+North Florida,Northwestern,2.0
+Brown,Northwestern,13.0
+Butler,Northwestern,9.0
+Houston Baptist,Northwestern,7.0
+UIC,Northwestern,17.0
+Northern Iowa,Northwestern,19.0
+Miami (OH),Northwestern,9.0
+Western Michigan,Northwestern,6.0
+Central Michigan,Northwestern,13.0
+Georgia Tech,Northwestern,8.0
+Mississippi Valley State,Northwestern,52.0
+Penn State,Northwestern,21.0
+Michigan State,Northwestern,15.5
+Michigan,Northwestern,1.0
+Rutgers,Northwestern,4.0
+Northern Kentucky,Wisconsin,31.0
+Georgetown,Wisconsin,3.0
+Marquette,Wisconsin,11.0
+Chattanooga,Wisconsin,44.0
+Nicholls State,Wisconsin,43.0
+Boise State,Wisconsin,24.0
+Milwaukee,Wisconsin,39.0
+Green Bay,Wisconsin,24.0
+Oklahoma,Wisconsin,13.0
+Buffalo,Wisconsin,12.0
+Duke,Wisconsin,10.0
+Penn State,Wisconsin,12.5
+Michigan State,Wisconsin,9.0
+Michigan,Wisconsin,8.0
+Rutgers,Wisconsin,5.0
+Northwestern,Wisconsin,19.0
+North Florida,Iowa,10.0
+UMBC,Iowa,30.0
+Northern Iowa,Iowa,12.0
+Texas,Iowa,14.0
+Iowa State,Iowa,15.0
+Northern Illinois,Iowa,21.0
+Syracuse,Iowa,3.0
+North Carolina,Iowa,5.0
+Alcorn State,Iowa,23.0
+Penn State,Iowa,2.5
+Michigan State,Iowa,14.0
+Michigan,Iowa,18.0
+Rutgers,Iowa,34.0
+Northwestern,Iowa,6.0
+Wisconsin,Iowa,21.5
+SMU,Indiana,6.0
+Butler,Indiana,9.0
+Georgetown,Indiana,4.0
+UNC Greensboro,Indiana,8.0
+Lamar,Indiana,13.0
+New Orleans,Indiana,20.0
+Pittsburgh,Indiana,12.0
+Louisville,Indiana,20.0
+Grand Canyon,Indiana,28.0
+Texas Southern,Indiana,19.0
+Mississippi Valley State,Indiana,51.0
+Penn State,Indiana,3.0
+Michigan State,Indiana,11.0
+Michigan,Indiana,3.0
+Rutgers,Indiana,19.0
+Northwestern,Indiana,4.0
+Wisconsin,Indiana,14.0
+Iowa,Indiana,14.0
+St John's,Minnesota,9.0
+Western Carolina,Minnesota,20.0
+Furman,Minnesota,10.0
+UMBC,Minnesota,18.0
+Louisville,Minnesota,13.0
+Wake Forest,Minnesota,15.0
+Seattle,Minnesota,35.0
+Southern,Minnesota,28.0
+Penn State,Minnesota,4.0
+Michigan State,Minnesota,6.0
+Michigan,Minnesota,5.0
+Rutgers,Minnesota,10.5
+Northwestern,Minnesota,6.0
+Wisconsin,Minnesota,11.5
+Iowa,Minnesota,1.5
+Indiana,Minnesota,19.0
+Northern Kentucky,Nebraska,19.0
+Hawaii,Nebraska,8.0
+Cincinnati,Nebraska,1.0
+Creighton,Nebraska,10.0
+Incarnate Word,Nebraska,1.0
+Central Arkansas,Nebraska,26.0
+Tennessee-Martin,Nebraska,11.0
+Ohio,Nebraska,13.0
+Florida State,Nebraska,5.0
+Penn State,Nebraska,8.0
+Michigan State,Nebraska,2.0
+Michigan,Nebraska,14.0
+Rutgers,Nebraska,16.0
+Northwestern,Nebraska,16.0
+Wisconsin,Nebraska,12.5
+Iowa,Nebraska,19.5
+Indiana,Nebraska,5.0
+Minnesota,Nebraska,7.5
+Kennesaw State,Illinois,48.0
+Brown,Illinois,21.0
+Villanova,Illinois,14.0
+Indiana State,Illinois,26.0
+Baylor,Illinois,8.0
+Austin Peay,Illinois,41.0
+Miami (FL),Illinois,9.0
+Georgia Southern,Illinois,9.0
+Penn State,Illinois,2.0
+Michigan State,Illinois,1.0
+Michigan,Illinois,4.66666666667
+Rutgers,Illinois,12.0
+Northwestern,Illinois,15.5
+Wisconsin,Illinois,19.0
+Iowa,Illinois,8.0
+Indiana,Illinois,6.0
+Minnesota,Illinois,8.0
+Nebraska,Illinois,1.0
+North Florida,Purdue,3.0
+Samford,Purdue,40.0
+Kansas State,Purdue,9.0
+Notre Dame,Purdue,31.0
+NC State,Purdue,5.0
+Arkansas State,Purdue,41.0
+Grambling State,Purdue,52.0
+Penn State,Purdue,6.0
+Michigan State,Purdue,6.0
+Michigan,Purdue,11.0
+Rutgers,Purdue,8.5
+Northwestern,Purdue,8.0
+Wisconsin,Purdue,13.5
+Iowa,Purdue,4.0
+Indiana,Purdue,10.0
+Minnesota,Purdue,0.0
+Nebraska,Purdue,12.0
+Illinois,Purdue,2.0
+Marquette,Ohio State,11.0
+Sacred Heart,Ohio State,58.0
+UMass Lowell,Ohio State,37.0
+Wright State,Ohio State,45.0
+Morehead State,Ohio State,18.0
+Miami (OH),Ohio State,38.0
+Louisville,Ohio State,9.0
+North Carolina,Ohio State,8.0
+Penn State,Ohio State,15.0
+Michigan State,Ohio State,6.0
+Michigan,Ohio State,6.0
+Rutgers,Ohio State,19.0
+Northwestern,Ohio State,2.0
+Wisconsin,Ohio State,24.0
+Iowa,Ohio State,7.5
+Indiana,Ohio State,4.5
+Minnesota,Ohio State,4.0
+Nebraska,Ohio State,24.0
+Illinois,Ohio State,16.0
+Purdue,Ohio State,1.0
+South Carolina Upstate,Maryland,10.0
+VMI,Maryland,18.0
+Central Connecticut,Maryland,36.0
+Wagner,Maryland,34.0
+Oakland,Maryland,16.0
+Oklahoma State,Maryland,9.0
+Iowa State,Maryland,9.0
+Virginia,Maryland,11.0
+Penn State,Maryland,4.5
+Michigan State,Maryland,4.66666666667
+Michigan,Maryland,10.0
+Rutgers,Maryland,9.0
+Northwestern,Maryland,1.0
+Wisconsin,Maryland,6.0
+Iowa,Maryland,16.0
+Indiana,Maryland,3.66666666667
+Minnesota,Maryland,12.0
+Nebraska,Maryland,3.5
+Illinois,Maryland,7.0
+Purdue,Maryland,9.0
+Ohio State,Maryland,24.0
+Troy,Southern Mississippi,2.0
+Georgia State,Southern Mississippi,13.0
+South Alabama,Southern Mississippi,9.0
+Jackson State,Southern Mississippi,20.0
+Princeton,UTEP,6.0
+Xavier,UTEP,4.0
+Southeastern Louisiana,UTEP,18.0
+Incarnate Word,UTEP,16.0
+Colorado State,UTEP,3.0
+Murray State,UTEP,15.0
+Kent State,UTEP,3.0
+New Mexico State,UTEP,3.0
+Alcorn State,UTEP,33.0
+Southern Mississippi,UTEP,15.5
+Cincinnati,Middle Tennessee,18.0
+Creighton,Middle Tennessee,10.0
+Chattanooga,Middle Tennessee,10.0
+Oklahoma State,Middle Tennessee,24.0
+Tennessee State,Middle Tennessee,18.0
+Belmont,Middle Tennessee,4.0
+Murray State,Middle Tennessee,19.0
+Akron,Middle Tennessee,1.0
+South Alabama,Middle Tennessee,1.0
+Southern,Middle Tennessee,18.0
+Southern Mississippi,Middle Tennessee,5.5
+UTEP,Middle Tennessee,5.0
+Creighton,North Texas,4.0
+Nicholls State,North Texas,14.0
+Stephen F Austin,North Texas,11.0
+Texas Tech,North Texas,15.0
+Oklahoma State,North Texas,26.0
+Mississippi Valley State,North Texas,15.0
+Prairie View A&M;,North Texas,3.0
+Southern Mississippi,North Texas,4.0
+UTEP,North Texas,18.5
+Middle Tennessee,North Texas,1.0
+Georgetown,Charlotte,3.0
+Georgia Tech,Charlotte,1.0
+Miami (FL),Charlotte,11.0
+Appalachian State,Charlotte,10.0
+Penn State,Charlotte,9.0
+Southern Mississippi,Charlotte,28.0
+UTEP,Charlotte,5.0
+Middle Tennessee,Charlotte,3.0
+North Texas,Charlotte,0.0
+Stony Brook,Western Kentucky,10.0
+Austin Peay,Western Kentucky,7.0
+Belmont,Western Kentucky,1.0
+Murray State,Western Kentucky,12.0
+Bowling Green,Western Kentucky,10.0
+Louisville,Western Kentucky,9.0
+Chicago State,Western Kentucky,15.0
+Minnesota,Western Kentucky,22.0
+Southern Mississippi,Western Kentucky,11.0
+UTEP,Western Kentucky,5.0
+Middle Tennessee,Western Kentucky,2.0
+North Texas,Western Kentucky,6.0
+Charlotte,Western Kentucky,6.0
+Kennesaw State,Florida Intl,21.0
+Stetson,Florida Intl,1.0
+South Carolina Upstate,Florida Intl,15.0
+Florida Gulf Coast,Florida Intl,6.0
+Cal State Fullerton,Florida Intl,3.0
+LIU Brooklyn,Florida Intl,11.0
+Hartford,Florida Intl,13.0
+Wright State,Florida Intl,2.0
+Louisville,Florida Intl,25.0
+Georgia Southern,Florida Intl,6.0
+Southern Mississippi,Florida Intl,2.0
+UTEP,Florida Intl,7.5
+Middle Tennessee,Florida Intl,4.0
+North Texas,Florida Intl,14.0
+Charlotte,Florida Intl,8.0
+Western Kentucky,Florida Intl,11.5
+Texas A&M-CC;,Texas San Antonio,13.0
+Loyola (CHI),Texas San Antonio,14.0
+TCU,Texas San Antonio,31.0
+Texas State,Texas San Antonio,13.0
+UT-Rio Grande Valley,Texas San Antonio,12.0
+Southern Mississippi,Texas San Antonio,8.0
+UTEP,Texas San Antonio,12.5
+Middle Tennessee,Texas San Antonio,11.0
+North Texas,Texas San Antonio,5.5
+Charlotte,Texas San Antonio,8.0
+Western Kentucky,Texas San Antonio,9.0
+Florida Intl,Texas San Antonio,4.0
+Nevada,Marshall,28.0
+Cleveland State,Marshall,9.0
+West Virginia,Marshall,3.0
+Jacksonville State,Marshall,19.0
+Morehead State,Marshall,9.0
+Akron,Marshall,7.0
+Louisville,Marshall,18.0
+Arkansas State,Marshall,9.0
+Penn State,Marshall,4.0
+Southern Mississippi,Marshall,15.0
+UTEP,Marshall,7.0
+Middle Tennessee,Marshall,39.0
+North Texas,Marshall,7.0
+Charlotte,Marshall,9.0
+Western Kentucky,Marshall,9.33333333333
+Florida Intl,Marshall,7.0
+Texas San Antonio,Marshall,14.0
+Stetson,Florida Atlantic,10.0
+Jacksonville,Florida Atlantic,18.0
+Harvard,Florida Atlantic,22.0
+UCF,Florida Atlantic,13.0
+East Carolina,Florida Atlantic,9.0
+St Francis (BKN),Florida Atlantic,5.0
+Eastern Kentucky,Florida Atlantic,3.0
+Southern Mississippi,Florida Atlantic,8.0
+UTEP,Florida Atlantic,7.0
+Middle Tennessee,Florida Atlantic,23.5
+North Texas,Florida Atlantic,7.0
+Charlotte,Florida Atlantic,25.0
+Western Kentucky,Florida Atlantic,3.0
+Florida Intl,Florida Atlantic,5.0
+Texas San Antonio,Florida Atlantic,15.0
+Marshall,Florida Atlantic,1.0
+South Florida,UAB,2.0
+Chattanooga,UAB,16.0
+Illinois State,UAB,4.0
+Morehead State,UAB,10.0
+North Carolina,UAB,31.0
+Louisiana Monroe,UAB,9.0
+Jackson State,UAB,8.0
+Wisconsin,UAB,29.0
+Southern Mississippi,UAB,8.5
+UTEP,UAB,2.0
+Middle Tennessee,UAB,7.66666666667
+North Texas,UAB,3.0
+Charlotte,UAB,5.0
+Western Kentucky,UAB,3.0
+Florida Intl,UAB,6.5
+Texas San Antonio,UAB,8.0
+Marshall,UAB,18.0
+Florida Atlantic,UAB,3.0
+Mount St Mary's,Old Dominion,34.0
+Illinois State,Old Dominion,9.0
+Murray State,Old Dominion,3.0
+Georgia State,Old Dominion,4.0
+Southern Mississippi,Old Dominion,26.0
+UTEP,Old Dominion,15.0
+Middle Tennessee,Old Dominion,8.5
+North Texas,Old Dominion,12.0
+Charlotte,Old Dominion,5.5
+Western Kentucky,Old Dominion,8.0
+Florida Intl,Old Dominion,15.0
+Texas San Antonio,Old Dominion,5.0
+Marshall,Old Dominion,19.0
+Florida Atlantic,Old Dominion,11.0
+UAB,Old Dominion,13.0
+Temple,Louisiana Tech,12.5
+Samford,Louisiana Tech,13.0
+Northwestern State,Louisiana Tech,11.0
+Nicholls State,Louisiana Tech,25.0
+Morehead State,Louisiana Tech,9.0
+Central Michigan,Louisiana Tech,10.0
+Syracuse,Louisiana Tech,2.0
+NC State,Louisiana Tech,8.0
+Louisiana Lafayette,Louisiana Tech,8.0
+Southern,Louisiana Tech,9.0
+Jackson State,Louisiana Tech,13.0
+Southern Mississippi,Louisiana Tech,12.0
+UTEP,Louisiana Tech,15.0
+Middle Tennessee,Louisiana Tech,9.0
+North Texas,Louisiana Tech,7.0
+Charlotte,Louisiana Tech,1.0
+Western Kentucky,Louisiana Tech,13.0
+Florida Intl,Louisiana Tech,33.0
+Texas San Antonio,Louisiana Tech,11.0
+Marshall,Louisiana Tech,24.0
+Florida Atlantic,Louisiana Tech,11.0
+UAB,Louisiana Tech,9.0
+Old Dominion,Louisiana Tech,19.0
+Houston,Rice,11.0
+Mercer,Rice,6.0
+Lamar,Rice,7.0
+Houston Baptist,Rice,3.0
+Texas,Rice,11.0
+Prairie View A&M;,Rice,4.0
+Southern Mississippi,Rice,2.0
+UTEP,Rice,6.0
+Middle Tennessee,Rice,3.0
+North Texas,Rice,5.0
+Charlotte,Rice,2.0
+Western Kentucky,Rice,4.0
+Florida Intl,Rice,4.0
+Texas San Antonio,Rice,8.5
+Marshall,Rice,14.0
+Florida Atlantic,Rice,7.0
+UAB,Rice,9.0
+Old Dominion,Rice,9.5
+Louisiana Tech,Rice,9.5
+Bryant,Denver,2.0
+Texas A&M-CC;,Denver,13.0
+New Orleans,Denver,19.0
+Wyoming,Denver,26.0
+Colorado State,Denver,1.0
+Northern Iowa,Denver,10.0
+Belmont,Denver,21.0
+CS Northridge,South Dakota,3.0
+Creighton,South Dakota,3.0
+Wofford,South Dakota,4.0
+Sam Houston State,South Dakota,8.0
+UNLV,South Dakota,14.0
+Milwaukee,South Dakota,24.0
+Youngstown State,South Dakota,8.0
+Utah Valley,South Dakota,8.0
+CSU Bakersfield,South Dakota,2.0
+Denver,South Dakota,6.5
+Xavier,IUPUI,23.0
+Milwaukee,IUPUI,2.0
+Drake,IUPUI,13.0
+Indiana State,IUPUI,13.0
+Evansville,IUPUI,27.0
+Eastern Kentucky,IUPUI,9.0
+Ball State,IUPUI,2.0
+Georgia State,IUPUI,3.0
+South Alabama,IUPUI,6.0
+Purdue,IUPUI,20.0
+Denver,IUPUI,2.0
+South Dakota,IUPUI,0.0
+Kennesaw State,North Dakota State,13.0
+Texas,North Dakota State,35.0
+Akron,North Dakota State,9.0
+Kent State,North Dakota State,1.0
+Alcorn State,North Dakota State,11.0
+Iowa,North Dakota State,31.0
+Southern Mississippi,North Dakota State,13.0
+Denver,North Dakota State,7.33333333333
+South Dakota,North Dakota State,10.0
+IUPUI,North Dakota State,8.5
+Tulsa,Oral Roberts,9.0
+Memphis,Oral Roberts,15.0
+Milwaukee,Oral Roberts,3.0
+Detroit,Oral Roberts,4.0
+Missouri State,Oral Roberts,6.0
+Oklahoma,Oral Roberts,32.0
+Louisiana Lafayette,Oral Roberts,24.0
+New Mexico State,Oral Roberts,3.0
+Denver,Oral Roberts,2.0
+South Dakota,Oral Roberts,6.0
+IUPUI,Oral Roberts,6.66666666667
+North Dakota State,Oral Roberts,2.0
+Stetson,IPFW,11.0
+Jacksonville,IPFW,18.0
+Cal Poly,IPFW,14.0
+Dartmouth,IPFW,1.0
+Valparaiso,IPFW,3.0
+Illinois State,IPFW,25.0
+SIU-Edwardsville,IPFW,3.0
+Miami (OH),IPFW,8.0
+Georgia Tech,IPFW,9.0
+Purdue,IPFW,20.0
+Denver,IPFW,16.0
+South Dakota,IPFW,0.0
+IUPUI,IPFW,5.0
+North Dakota State,IPFW,1.0
+Oral Roberts,IPFW,1.0
+Memphis,Western Illinois,27.0
+Southeastern Louisiana,Western Illinois,3.0
+Cleveland State,Western Illinois,22.0
+UIC,Western Illinois,3.0
+Akron,Western Illinois,24.0
+Alabama State,Western Illinois,10.0
+Denver,Western Illinois,13.5
+South Dakota,Western Illinois,12.0
+IUPUI,Western Illinois,0.5
+North Dakota State,Western Illinois,7.5
+Oral Roberts,Western Illinois,9.5
+IPFW,Western Illinois,7.0
+Florida Gulf Coast,South Dakota State,13.0
+Utah State,South Dakota State,3.0
+Colorado State,South Dakota State,10.0
+Northern Iowa,South Dakota State,11.0
+Buffalo,South Dakota State,2.0
+CSU Bakersfield,South Dakota State,4.0
+UMKC,South Dakota State,20.0
+Denver,South Dakota State,11.5
+South Dakota,South Dakota State,3.66666666667
+IUPUI,South Dakota State,11.0
+North Dakota State,South Dakota State,1.33333333333
+Oral Roberts,South Dakota State,16.5
+IPFW,South Dakota State,9.5
+Western Illinois,South Dakota State,23.3333333333
+Marquette,Omaha,8.0
+Central Arkansas,Omaha,25.0
+Nevada,Omaha,24.0
+Air Force,Omaha,16.0
+Kansas State,Omaha,18.0
+Chicago State,Omaha,3.0
+UT-Rio Grande Valley,Omaha,5.0
+Seattle,Omaha,24.0
+UMKC,Omaha,7.0
+Nebraska,Omaha,13.0
+Denver,Omaha,1.5
+South Dakota,Omaha,4.0
+IUPUI,Omaha,1.0
+North Dakota State,Omaha,5.0
+Oral Roberts,Omaha,9.5
+IPFW,Omaha,2.0
+Western Illinois,Omaha,8.5
+South Dakota State,Omaha,20.5
+UC Santa Barbara,San Diego,14.0
+Princeton,San Diego,10.0
+Xavier,San Diego,11.0
+New Orleans,San Diego,25.0
+San Diego State,San Diego,9.0
+Boise State,San Diego,6.0
+Southeast Missouri State,San Diego,11.0
+Western Michigan,San Diego,2.5
+Florida Gulf Coast,San Francisco,15.0
+Cal Poly,San Francisco,7.0
+Hawaii,San Francisco,15.0
+Houston Baptist,San Francisco,31.0
+Cleveland State,San Francisco,4.0
+Evansville,San Francisco,7.0
+San Diego,San Francisco,4.5
+Cal Poly,Gonzaga,13.0
+Memphis,Gonzaga,18.0
+SMU,Gonzaga,16.0
+St John's,Gonzaga,7.0
+Southeastern Louisiana,Gonzaga,19.0
+Texas Southern,Gonzaga,40.0
+San Diego,Gonzaga,16.0
+San Francisco,Gonzaga,17.0
+UC Irvine,Pacific,18.0
+Mercer,Pacific,7.0
+Nevada,Pacific,4.0
+Fresno State,Pacific,3.0
+Colorado State,Pacific,11.0
+Western Michigan,Pacific,8.0
+Western Illinois,Pacific,2.0
+San Diego,Pacific,9.0
+San Francisco,Pacific,6.66666666667
+Gonzaga,Pacific,21.5
+UC Irvine,Saint Mary's,3.0
+Cal Poly,Saint Mary's,26.0
+Creighton,Saint Mary's,4.0
+St John's,Saint Mary's,6.0
+Boise State,Saint Mary's,11.0
+New Mexico State,Saint Mary's,12.0
+Denver,Saint Mary's,16.0
+San Diego,Saint Mary's,9.5
+San Francisco,Saint Mary's,22.0
+Gonzaga,Saint Mary's,15.5
+Pacific,Saint Mary's,11.0
+Cal State Fullerton,Santa Clara,17.0
+Cal Poly,Santa Clara,11.0
+Utah State,Santa Clara,6.0
+San José State,Santa Clara,11.0
+Michigan State,Santa Clara,27.0
+San Diego,Santa Clara,1.0
+San Francisco,Santa Clara,0.5
+Gonzaga,Santa Clara,18.0
+Pacific,Santa Clara,5.0
+Saint Mary's,Santa Clara,6.0
+Long Beach State,BYU,5.0
+Hawaii,BYU,20.0
+Utah State,BYU,10.0
+San Diego State,BYU,5.0
+Eastern Kentucky,BYU,14.0
+Arkansas-Little Rock,BYU,29.0
+Purdue,BYU,2.0
+San Diego,BYU,5.0
+San Francisco,BYU,17.5
+Gonzaga,BYU,6.66666666667
+Pacific,BYU,19.0
+Saint Mary's,BYU,8.5
+Santa Clara,BYU,19.3333333333
+UNLV,Portland,2.0
+San José State,Portland,5.0
+Valparaiso,Portland,15.0
+Drake,Portland,12.0
+SIU-Edwardsville,Portland,22.0
+Murray State,Portland,3.0
+San Diego,Portland,4.5
+San Francisco,Portland,0.0
+Gonzaga,Portland,15.0
+Pacific,Portland,0.5
+Saint Mary's,Portland,3.33333333333
+Santa Clara,Portland,18.5
+BYU,Portland,12.0
+Cal State Fullerton,Pepperdine,12.0
+CS Northridge,Pepperdine,10.0
+Fresno State,Pepperdine,15.0
+San José State,Pepperdine,19.0
+South Alabama,Pepperdine,10.0
+Iowa,Pepperdine,11.0
+IUPUI,Pepperdine,2.0
+San Diego,Pepperdine,2.33333333333
+San Francisco,Pepperdine,7.0
+Gonzaga,Pepperdine,9.33333333333
+Pacific,Pepperdine,8.5
+Saint Mary's,Pepperdine,2.0
+Santa Clara,Pepperdine,3.0
+BYU,Pepperdine,6.0
+Portland,Pepperdine,6.5
+UC Riverside,Loyola Marymount,4.0
+UC Irvine,Loyola Marymount,8.0
+DePaul,Loyola Marymount,3.0
+Boise State,Loyola Marymount,8.0
+Wichita St,Loyola Marymount,27.0
+Southeast Missouri State,Loyola Marymount,10.0
+Nebraska,Loyola Marymount,8.0
+San Diego,Loyola Marymount,0.0
+San Francisco,Loyola Marymount,13.0
+Gonzaga,Loyola Marymount,23.0
+Pacific,Loyola Marymount,4.5
+Saint Mary's,Loyola Marymount,11.5
+Santa Clara,Loyola Marymount,13.6666666667
+BYU,Loyola Marymount,16.0
+Portland,Loyola Marymount,4.5
+Pepperdine,Loyola Marymount,14.5
+Hawaii,High Point,8.0
+UNC Greensboro,High Point,8.0
+Clemson,High Point,3.0
+CSU Bakersfield,High Point,1.0
+Arkansas-Pine Bluff,High Point,12.0
+Ohio State,High Point,54.0
+Wofford,Presbyterian College,21.0
+UNC Greensboro,Presbyterian College,2.0
+Samford,Presbyterian College,10.0
+Tennessee-Martin,Presbyterian College,17.0
+Morehead State,Presbyterian College,20.0
+Virginia Tech,Presbyterian College,22.0
+Duke,Presbyterian College,69.0
+Louisiana Tech,Presbyterian College,28.0
+High Point,Presbyterian College,9.0
+Cornell,Radford,13.0
+Georgetown,Radford,27.0
+Texas A&M-CC;,Radford,11.0
+TCU,Radford,24.0
+Virginia Tech,Radford,2.0
+High Point,Radford,5.0
+Presbyterian College,Radford,9.5
+Samford,Campbell,9.0
+Sacred Heart,Campbell,9.0
+SIU-Edwardsville,Campbell,5.0
+Ohio State,Campbell,27.0
+High Point,Campbell,9.5
+Presbyterian College,Campbell,5.5
+Radford,Campbell,17.0
+Chattanooga,Coastal Carolina,11.0
+Central Arkansas,Coastal Carolina,17.0
+Louisiana Monroe,Coastal Carolina,13.0
+High Point,Coastal Carolina,10.0
+Presbyterian College,Coastal Carolina,0.0
+Radford,Coastal Carolina,6.0
+Campbell,Coastal Carolina,13.5
+Western Carolina,Charleston Southern,6.0
+Wofford,Charleston Southern,6.0
+Central Arkansas,Charleston Southern,13.0
+Colorado State,Charleston Southern,21.0
+Wright State,Charleston Southern,7.0
+NC State,Charleston Southern,36.0
+Florida State,Charleston Southern,11.0
+Old Dominion,Charleston Southern,9.0
+High Point,Charleston Southern,3.5
+Presbyterian College,Charleston Southern,17.0
+Radford,Charleston Southern,0.5
+Campbell,Charleston Southern,16.0
+Coastal Carolina,Charleston Southern,1.0
+East Carolina,UNC Asheville,4.0
+Western Carolina,UNC Asheville,4.0
+East Tennessee State,UNC Asheville,11.0
+Jacksonville State,UNC Asheville,9.0
+Wake Forest,UNC Asheville,11.0
+Charlotte,UNC Asheville,3.0
+UAB,UNC Asheville,8.0
+High Point,UNC Asheville,12.5
+Presbyterian College,UNC Asheville,4.0
+Radford,UNC Asheville,2.5
+Campbell,UNC Asheville,5.5
+Coastal Carolina,UNC Asheville,6.33333333333
+Charleston Southern,UNC Asheville,7.0
+Dartmouth,Longwood,1.0
+UNC Greensboro,Longwood,2.0
+UMBC,Longwood,5.0
+Youngstown State,Longwood,10.0
+Tennessee-Martin,Longwood,10.0
+Miami (OH),Longwood,11.0
+Ball State,Longwood,5.0
+Eastern Michigan,Longwood,31.0
+Iowa,Longwood,33.0
+High Point,Longwood,5.0
+Presbyterian College,Longwood,1.33333333333
+Radford,Longwood,3.0
+Campbell,Longwood,5.0
+Coastal Carolina,Longwood,9.5
+Charleston Southern,Longwood,2.33333333333
+UNC Asheville,Longwood,12.5
+Jacksonville,Gardner-Webb,3.0
+Seton Hall,Gardner-Webb,18.0
+Furman,Gardner-Webb,6.0
+Clemson,Gardner-Webb,2.0
+Purdue,Gardner-Webb,5.0
+Old Dominion,Gardner-Webb,12.0
+High Point,Gardner-Webb,10.6666666667
+Presbyterian College,Gardner-Webb,17.0
+Radford,Gardner-Webb,3.5
+Campbell,Gardner-Webb,1.0
+Coastal Carolina,Gardner-Webb,4.66666666667
+Charleston Southern,Gardner-Webb,1.5
+UNC Asheville,Gardner-Webb,14.0
+Longwood,Gardner-Webb,10.5
+East Tennessee State,Winthrop,5.0
+Southeastern Louisiana,Winthrop,10.0
+Jacksonville State,Winthrop,3.0
+Clemson,Winthrop,3.0
+Maryland,Winthrop,20.0
+High Point,Winthrop,2.0
+Presbyterian College,Winthrop,14.0
+Radford,Winthrop,4.66666666667
+Campbell,Winthrop,3.5
+Coastal Carolina,Winthrop,2.0
+Charleston Southern,Winthrop,22.0
+UNC Asheville,Winthrop,18.0
+Longwood,Winthrop,15.6666666667
+Gardner-Webb,Winthrop,1.0
+North Florida,Liberty,20.0
+Princeton,Liberty,18.0
+Furman,Liberty,14.0
+St Francis (BKN),Liberty,11.0
+Miami (OH),Liberty,9.0
+Virginia Tech,Liberty,10.0
+High Point,Liberty,19.0
+Presbyterian College,Liberty,6.0
+Radford,Liberty,1.5
+Campbell,Liberty,3.0
+Coastal Carolina,Liberty,27.5
+Charleston Southern,Liberty,17.0
+UNC Asheville,Liberty,15.0
+Longwood,Liberty,10.0
+Gardner-Webb,Liberty,10.0
+Winthrop,Liberty,14.0
+Florida Gulf Coast,Massachusetts,9.0
+Harvard,Massachusetts,2.0
+Providence,Massachusetts,20.0
+Boston College,Massachusetts,9.0
+Notre Dame,Massachusetts,13.0
+Florida State,Massachusetts,6.0
+BYU,Massachusetts,6.0
+Brown,Rhode Island,20.0
+Providence,Rhode Island,8.0
+UMass Lowell,Rhode Island,16.0
+Detroit,Rhode Island,14.0
+Kansas,Rhode Island,16.0
+Georgia Tech,Rhode Island,3.0
+Nebraska,Rhode Island,4.0
+Southern Mississippi,Rhode Island,32.0
+Santa Clara,Rhode Island,22.0
+Massachusetts,Rhode Island,6.0
+Penn,La Salle,17.0
+Temple,La Salle,1.0
+Villanova,La Salle,14.0
+St Francis (BKN),La Salle,13.0
+Virginia,La Salle,8.0
+Massachusetts,La Salle,2.0
+Rhode Island,La Salle,7.5
+Stetson,Davidson,31.0
+UCF,Davidson,26.0
+Virginia,Davidson,11.0
+North Carolina,Davidson,18.0
+Charlotte,Davidson,6.0
+Campbell,Davidson,35.0
+Massachusetts,Davidson,8.0
+Rhode Island,Davidson,1.0
+La Salle,Davidson,4.5
+Connecticut,Dayton,11.0
+UIC,Dayton,34.0
+Miami (OH),Dayton,4.0
+Eastern Michigan,Dayton,9.0
+Bowling Green,Dayton,4.0
+Georgia Tech,Dayton,14.0
+Boston College,Dayton,12.0
+Alabama A&M;,Dayton,24.0
+Massachusetts,Dayton,2.0
+Rhode Island,Dayton,10.0
+La Salle,Dayton,4.5
+Davidson,Dayton,17.0
+Princeton,George Mason,3.0
+Cornell,George Mason,8.0
+New Mexico,George Mason,11.0
+Wright State,George Mason,8.0
+Northern Iowa,George Mason,6.0
+West Virginia,George Mason,26.0
+Oklahoma,George Mason,18.0
+Old Dominion,George Mason,6.0
+Massachusetts,George Mason,4.0
+Rhode Island,George Mason,15.0
+La Salle,George Mason,8.0
+Davidson,George Mason,14.0
+Dayton,George Mason,13.0
+St John's,Fordham,21.0
+UMass Lowell,Fordham,7.0
+Penn State,Fordham,19.0
+Maryland,Fordham,16.0
+Massachusetts,Fordham,7.0
+Rhode Island,Fordham,2.0
+La Salle,Fordham,2.0
+Davidson,Fordham,19.0
+Dayton,Fordham,21.0
+George Mason,Fordham,9.0
+St Francis (PA),Duquesne,15.0
+Robert Morris,Duquesne,16.0
+UMass Lowell,Duquesne,16.0
+Abilene Christian ,Duquesne,21.0
+Pittsburgh,Duquesne,14.0
+UT-Rio Grande Valley,Duquesne,6.0
+Penn State,Duquesne,2.0
+Massachusetts,Duquesne,8.0
+Rhode Island,Duquesne,1.0
+La Salle,Duquesne,15.0
+Davidson,Duquesne,27.5
+Dayton,Duquesne,8.0
+George Mason,Duquesne,9.0
+Fordham,Duquesne,15.0
+Penn,Saint Joseph's,4.0
+Temple,Saint Joseph's,2.0
+Villanova,Saint Joseph's,28.0
+LIU Brooklyn,Saint Joseph's,4.0
+Fairleigh Dickinson,Saint Joseph's,1.0
+Vermont,Saint Joseph's,8.0
+Western Kentucky,Saint Joseph's,3.0
+Denver,Saint Joseph's,4.0
+Gonzaga,Saint Joseph's,52.0
+Massachusetts,Saint Joseph's,8.5
+Rhode Island,Saint Joseph's,4.5
+La Salle,Saint Joseph's,0.0
+Davidson,Saint Joseph's,5.0
+Dayton,Saint Joseph's,4.0
+George Mason,Saint Joseph's,4.0
+Fordham,Saint Joseph's,1.5
+Duquesne,Saint Joseph's,3.0
+Dartmouth,St Bonaventure,20.0
+Binghamton,St Bonaventure,18.0
+Buffalo,St Bonaventure,9.0
+Ohio,St Bonaventure,10.0
+Pittsburgh,St Bonaventure,4.0
+Jackson State,St Bonaventure,8.0
+Massachusetts,St Bonaventure,6.0
+Rhode Island,St Bonaventure,5.0
+La Salle,St Bonaventure,10.0
+Davidson,St Bonaventure,1.0
+Dayton,St Bonaventure,11.6666666667
+George Mason,St Bonaventure,20.0
+Fordham,St Bonaventure,14.0
+Duquesne,St Bonaventure,10.0
+Saint Joseph's,St Bonaventure,10.0
+St Francis (BKN),Richmond,10.0
+Northern Iowa,Richmond,5.0
+Wake Forest,Richmond,2.0
+NC State,Richmond,12.0
+Miami (FL),Richmond,2.0
+South Alabama,Richmond,11.0
+Old Dominion,Richmond,6.0
+IUPUI,Richmond,4.0
+Pepperdine,Richmond,2.0
+High Point,Richmond,24.0
+Radford,Richmond,18.0
+Massachusetts,Richmond,3.0
+Rhode Island,Richmond,5.0
+La Salle,Richmond,2.0
+Davidson,Richmond,6.0
+Dayton,Richmond,3.0
+George Mason,Richmond,3.0
+Fordham,Richmond,2.0
+Duquesne,Richmond,31.0
+Saint Joseph's,Richmond,6.0
+St Bonaventure,Richmond,17.0
+Temple,George Washington,13.0
+Seton Hall,George Washington,4.0
+DePaul,George Washington,13.0
+VMI,George Washington,20.0
+UMBC,George Washington,23.0
+Wichita St,George Washington,6.0
+Ohio,George Washington,28.0
+Virginia,George Washington,17.0
+Pittsburgh,George Washington,6.0
+Grambling State,George Washington,52.0
+Penn State,George Washington,13.0
+Rutgers,George Washington,17.0
+Charlotte,George Washington,8.0
+Longwood,George Washington,25.0
+Massachusetts,George Washington,22.0
+Rhode Island,George Washington,8.5
+La Salle,George Washington,13.0
+Davidson,George Washington,6.5
+Dayton,George Washington,1.0
+George Mason,George Washington,13.0
+Fordham,George Washington,20.0
+Duquesne,George Washington,5.66666666667
+Saint Joseph's,George Washington,4.0
+St Bonaventure,George Washington,23.0
+Richmond,George Washington,2.5
+Vermont,Saint Louis,3.0
+Texas A&M-CC;,Saint Louis,6.0
+Bradley,Saint Louis,3.0
+Southern Illinois,Saint Louis,3.0
+Indiana State,Saint Louis,13.0
+Wichita St,Saint Louis,29.0
+SIU-Edwardsville,Saint Louis,6.0
+UT-Rio Grande Valley,Saint Louis,6.0
+South Dakota State,Saint Louis,7.0
+Massachusetts,Saint Louis,4.0
+Rhode Island,Saint Louis,12.5
+La Salle,Saint Louis,4.0
+Davidson,Saint Louis,35.0
+Dayton,Saint Louis,11.5
+George Mason,Saint Louis,18.0
+Fordham,Saint Louis,18.0
+Duquesne,Saint Louis,3.33333333333
+Saint Joseph's,Saint Louis,7.0
+St Bonaventure,Saint Louis,16.0
+Richmond,Saint Louis,16.0
+George Washington,Saint Louis,3.0
+Cincinnati,VCU,21.0
+Villanova,VCU,24.0
+East Tennessee State,VCU,24.0
+Cleveland State,VCU,9.0
+Northern Iowa,VCU,6.0
+Illinois State,VCU,4.0
+Belmont,VCU,27.0
+Toledo,VCU,9.0
+Virginia,VCU,17.0
+Old Dominion,VCU,6.0
+Massachusetts,VCU,6.0
+Rhode Island,VCU,5.0
+La Salle,VCU,5.0
+Davidson,VCU,0.333333333333
+Dayton,VCU,1.0
+George Mason,VCU,11.5
+Fordham,VCU,11.5
+Duquesne,VCU,6.0
+Saint Joseph's,VCU,15.0
+St Bonaventure,VCU,2.0
+Richmond,VCU,3.33333333333
+George Washington,VCU,18.5
+Saint Louis,VCU,11.0
+Houston,South Carolina State,8.0
+Abilene Christian ,South Carolina State,6.0
+Texas Tech,South Carolina State,62.0
+Eastern Kentucky,South Carolina State,11.0
+Virginia,South Carolina State,20.0
+Georgia Southern,South Carolina State,13.0
+San Francisco,South Carolina State,39.0
+Coastal Carolina,South Carolina State,14.0
+Fordham,South Carolina State,20.0
+Stetson,Bethune-Cookman,5.0
+North Florida,Bethune-Cookman,7.0
+Jacksonville,Bethune-Cookman,5.0
+UCF,Bethune-Cookman,8.0
+The Citadel,Bethune-Cookman,4.0
+Mercer,Bethune-Cookman,21.0
+Central Connecticut,Bethune-Cookman,5.0
+Tennessee-Martin,Bethune-Cookman,18.0
+Ball State,Bethune-Cookman,3.0
+Grand Canyon,Bethune-Cookman,10.0
+South Carolina State,Bethune-Cookman,2.5
+UC Riverside,Morgan State,5.0
+UC Irvine,Morgan State,1.0
+CS Northridge,Morgan State,16.0
+Houston,Morgan State,15.0
+Marquette,Morgan State,28.0
+Northern Iowa,Morgan State,20.0
+Virginia Tech,Morgan State,20.0
+Penn State,Morgan State,13.0
+Saint Mary's,Morgan State,26.0
+Liberty,Morgan State,1.0
+South Carolina State,Morgan State,12.0
+Bethune-Cookman,Morgan State,7.0
+South Carolina Upstate,Hampton,14.0
+Tennessee State,Hampton,10.0
+Northern Illinois,Hampton,32.0
+Syracuse,Hampton,18.0
+Appalachian State,Hampton,8.0
+Alcorn State,Hampton,13.0
+Iowa,Hampton,34.0
+Illinois,Hampton,18.0
+North Dakota State,Hampton,8.0
+South Carolina State,Hampton,9.0
+Bethune-Cookman,Hampton,2.0
+Morgan State,Hampton,17.3333333333
+Northern Kentucky,North Carolina A&T;,13.0
+South Carolina Upstate,North Carolina A&T;,14.0
+Bradley,North Carolina A&T;,8.0
+Kent State,North Carolina A&T;,14.0
+CSU Bakersfield,North Carolina A&T;,13.0
+Mississippi Valley State,North Carolina A&T;,3.0
+Ohio State,North Carolina A&T;,42.0
+Charlotte,North Carolina A&T;,16.0
+Old Dominion,North Carolina A&T;,37.0
+Radford,North Carolina A&T;,8.0
+Saint Louis,North Carolina A&T;,3.0
+South Carolina State,North Carolina A&T;,5.5
+Bethune-Cookman,North Carolina A&T;,2.0
+Morgan State,North Carolina A&T;,3.0
+Hampton,North Carolina A&T;,3.0
+Princeton,Norfolk State,10.0
+St Francis (BKN),Norfolk State,2.0
+Mount St Mary's,Norfolk State,3.0
+Baylor,Norfolk State,41.0
+Virginia,Norfolk State,28.0
+Texas Southern,Norfolk State,10.0
+South Carolina State,Norfolk State,13.5
+Bethune-Cookman,Norfolk State,24.0
+Morgan State,Norfolk State,8.5
+Hampton,Norfolk State,1.0
+North Carolina A&T;,Norfolk State,14.0
+Connecticut,Coppin State,21.0
+Evansville,Coppin State,5.0
+Eastern Kentucky,Coppin State,3.0
+Eastern Michigan,Coppin State,23.0
+Akron,Coppin State,17.0
+Notre Dame,Coppin State,37.0
+Michigan,Coppin State,16.0
+Illinois,Coppin State,58.0
+Denver,Coppin State,26.0
+South Carolina State,Coppin State,3.0
+Bethune-Cookman,Coppin State,0.5
+Morgan State,Coppin State,12.0
+Hampton,Coppin State,19.0
+North Carolina A&T;,Coppin State,13.0
+Norfolk State,Coppin State,18.5
+Cornell,Howard,10.0
+UMBC,Howard,14.0
+Miami (FL),Howard,35.0
+South Alabama,Howard,13.0
+IUPUI,Howard,10.0
+Pepperdine,Howard,8.0
+Radford,Howard,9.0
+Fordham,Howard,15.0
+Duquesne,Howard,18.0
+Richmond,Howard,13.0
+South Carolina State,Howard,10.0
+Bethune-Cookman,Howard,3.0
+Morgan State,Howard,16.0
+Hampton,Howard,2.5
+North Carolina A&T;,Howard,7.0
+Norfolk State,Howard,0.5
+Coppin State,Howard,9.5
+Villanova,Maryland-Eastern Shore,37.0
+St Francis (PA),Maryland-Eastern Shore,4.0
+Mount St Mary's,Maryland-Eastern Shore,12.0
+UMBC,Maryland-Eastern Shore,13.0
+Detroit,Maryland-Eastern Shore,14.0
+Tennessee-Martin,Maryland-Eastern Shore,3.0
+Virginia Tech,Maryland-Eastern Shore,25.0
+Old Dominion,Maryland-Eastern Shore,17.0
+Fordham,Maryland-Eastern Shore,6.0
+Duquesne,Maryland-Eastern Shore,9.0
+St Bonaventure,Maryland-Eastern Shore,2.0
+VCU,Maryland-Eastern Shore,40.0
+South Carolina State,Maryland-Eastern Shore,5.5
+Bethune-Cookman,Maryland-Eastern Shore,4.0
+Morgan State,Maryland-Eastern Shore,19.0
+Hampton,Maryland-Eastern Shore,4.0
+North Carolina A&T;,Maryland-Eastern Shore,11.0
+Norfolk State,Maryland-Eastern Shore,18.0
+Coppin State,Maryland-Eastern Shore,10.0
+Howard,Maryland-Eastern Shore,1.0
+Tulane,Savannah State,8.0
+Cleveland State,Savannah State,4.0
+Kansas State,Savannah State,20.0
+Eastern Kentucky,Savannah State,23.0
+Jacksonville State,Savannah State,3.0
+Louisville,Savannah State,61.0
+Miami (FL),Savannah State,31.0
+Indiana,Savannah State,46.0
+Marshall,Savannah State,19.0
+Winthrop,Savannah State,10.0
+South Carolina State,Savannah State,4.0
+Bethune-Cookman,Savannah State,9.0
+Morgan State,Savannah State,10.0
+Hampton,Savannah State,2.0
+North Carolina A&T;,Savannah State,12.0
+Norfolk State,Savannah State,16.0
+Coppin State,Savannah State,3.0
+Howard,Savannah State,2.0
+Maryland-Eastern Shore,Savannah State,30.0
+Cincinnati,North Carolina Central,9.0
+Memphis,North Carolina Central,34.0
+Creighton,North Carolina Central,20.0
+East Tennessee State,North Carolina Central,2.0
+Eastern Illinois,North Carolina Central,25.0
+Miami (FL),North Carolina Central,4.0
+North Carolina,North Carolina Central,16.0
+Mississippi Valley State,North Carolina Central,34.0
+Jackson State,North Carolina Central,3.0
+Maryland,North Carolina Central,11.0
+IUPUI,North Carolina Central,21.0
+South Carolina State,North Carolina Central,31.0
+Bethune-Cookman,North Carolina Central,18.5
+Morgan State,North Carolina Central,15.0
+Hampton,North Carolina Central,7.0
+North Carolina A&T;,North Carolina Central,12.5
+Norfolk State,North Carolina Central,4.0
+Coppin State,North Carolina Central,25.0
+Howard,North Carolina Central,22.0
+Maryland-Eastern Shore,North Carolina Central,5.0
+Savannah State,North Carolina Central,15.5
+Stetson,Florida A&M;,8.5
+North Florida,Florida A&M;,18.0
+South Carolina Upstate,Florida A&M;,13.0
+Jacksonville,Florida A&M;,23.0
+East Carolina,Florida A&M;,18.0
+Wyoming,Florida A&M;,21.0
+Clemson,Florida A&M;,45.0
+Grand Canyon,Florida A&M;,15.0
+New Mexico State,Florida A&M;,45.0
+Florida Intl,Florida A&M;,21.0
+San Diego,Florida A&M;,31.0
+South Carolina State,Florida A&M;,9.0
+Bethune-Cookman,Florida A&M;,12.0
+Morgan State,Florida A&M;,10.0
+Hampton,Florida A&M;,15.0
+North Carolina A&T;,Florida A&M;,2.5
+Norfolk State,Florida A&M;,24.0
+Coppin State,Florida A&M;,12.0
+Howard,Florida A&M;,9.0
+Maryland-Eastern Shore,Florida A&M;,7.0
+Savannah State,Florida A&M;,2.0
+North Carolina Central,Florida A&M;,33.5
+Hawaii,Delaware State,15.0
+Penn,Delaware State,2.0
+Temple,Delaware State,10.0
+St Francis (BKN),Delaware State,8.0
+Wake Forest,Delaware State,7.0
+North Texas,Delaware State,7.0
+Campbell,Delaware State,15.0
+Rhode Island,Delaware State,39.0
+South Carolina State,Delaware State,3.5
+Bethune-Cookman,Delaware State,5.0
+Morgan State,Delaware State,4.0
+Hampton,Delaware State,2.66666666667
+North Carolina A&T;,Delaware State,15.0
+Norfolk State,Delaware State,10.0
+Coppin State,Delaware State,4.0
+Howard,Delaware State,4.0
+Maryland-Eastern Shore,Delaware State,1.0
+Savannah State,Delaware State,7.5
+North Carolina Central,Delaware State,2.5
+Florida A&M;,Delaware State,16.0
+UC Riverside,Portland State,26.0
+CS Northridge,Portland State,8.0
+SIU-Edwardsville,Portland State,3.0
+CSU Bakersfield,Portland State,6.0
+San Francisco,Portland State,37.0
+Portland,Portland State,12.0
+Northern Kentucky,Eastern Washington,21.0
+SMU,Eastern Washington,9.0
+Sam Houston State,Eastern Washington,24.0
+Utah Valley,Eastern Washington,25.0
+Seattle,Eastern Washington,12.0
+Texas Southern,Eastern Washington,24.0
+Indiana,Eastern Washington,2.0
+San Francisco,Eastern Washington,5.0
+Portland State,Eastern Washington,2.5
+Xavier,Northern Arizona,33.0
+Fresno State,Northern Arizona,21.0
+Toledo,Northern Arizona,13.0
+Southern,Northern Arizona,7.0
+Middle Tennessee,Northern Arizona,12.0
+Texas San Antonio,Northern Arizona,5.0
+Saint Mary's,Northern Arizona,2.0
+Loyola Marymount,Northern Arizona,2.0
+Hampton,Northern Arizona,9.0
+Norfolk State,Northern Arizona,19.0
+North Carolina Central,Northern Arizona,4.0
+Portland State,Northern Arizona,10.0
+Eastern Washington,Northern Arizona,4.0
+Stetson,Northern Colorado,20.0
+UC Davis,Northern Colorado,10.0
+Wyoming,Northern Colorado,8.0
+Colorado State,Northern Colorado,8.0
+Jacksonville State,Northern Colorado,9.0
+New Mexico State,Northern Colorado,21.0
+Omaha,Northern Colorado,10.0
+Florida A&M;,Northern Colorado,39.0
+Portland State,Northern Colorado,5.5
+Eastern Washington,Northern Colorado,10.0
+Northern Arizona,Northern Colorado,3.0
+Nevada,Weber State,3.0
+Utah State,Weber State,11.0
+Illinois State,Weber State,9.0
+Oklahoma,Weber State,34.0
+UT-Arlington,Weber State,7.0
+Utah Valley,Weber State,12.0
+Oral Roberts,Weber State,1.0
+BYU,Weber State,16.0
+Portland State,Weber State,6.0
+Eastern Washington,Weber State,7.0
+Northern Arizona,Weber State,1.0
+Northern Colorado,Weber State,14.0
+Marquette,North Dakota,13.0
+Drake,North Dakota,1.0
+Northern Iowa,North Dakota,12.0
+UT-Rio Grande Valley,North Dakota,18.0
+Alabama State,North Dakota,7.0
+Minnesota,North Dakota,36.0
+North Dakota State,North Dakota,29.0
+South Dakota State,North Dakota,2.0
+Omaha,North Dakota,2.0
+Portland State,North Dakota,8.5
+Eastern Washington,North Dakota,22.0
+Northern Arizona,North Dakota,17.5
+Northern Colorado,North Dakota,5.5
+Weber State,North Dakota,7.0
+Colorado State,Montana,17.0
+Boise State,Montana,5.0
+Milwaukee,Montana,15.0
+Seattle,Montana,4.0
+South Dakota,Montana,5.0
+North Dakota State,Montana,12.0
+San Francisco,Montana,19.0
+Davidson,Montana,11.0
+Portland State,Montana,19.0
+Eastern Washington,Montana,3.0
+Northern Arizona,Montana,4.5
+Northern Colorado,Montana,10.0
+Weber State,Montana,2.0
+North Dakota,Montana,7.5
+Cal State Fullerton,Sacramento State,14.0
+UC Riverside,Sacramento State,1.0
+UC Irvine,Sacramento State,12.0
+Abilene Christian ,Sacramento State,11.0
+Utah Valley,Sacramento State,17.0
+Seattle,Sacramento State,19.0
+Gonzaga,Sacramento State,46.0
+Portland,Sacramento State,5.0
+Portland State,Sacramento State,9.0
+Eastern Washington,Sacramento State,0.666666666667
+Northern Arizona,Sacramento State,1.5
+Northern Colorado,Sacramento State,2.0
+Weber State,Sacramento State,7.0
+North Dakota,Sacramento State,5.0
+Montana,Sacramento State,1.0
+CS Northridge,Montana State,7.0
+Wyoming,Montana State,9.5
+UT-Arlington,Montana State,23.0
+Grand Canyon,Montana State,16.0
+Utah Valley,Montana State,8.0
+South Dakota,Montana State,2.0
+North Dakota State,Montana State,21.0
+Portland,Montana State,27.0
+Portland State,Montana State,18.0
+Eastern Washington,Montana State,17.0
+Northern Arizona,Montana State,7.0
+Northern Colorado,Montana State,2.5
+Weber State,Montana State,3.0
+North Dakota,Montana State,2.5
+Montana,Montana State,15.5
+Sacramento State,Montana State,16.0
+Northern Kentucky,Idaho,9.0
+UC Davis,Idaho,8.0
+Boise State,Idaho,11.0
+Northern Illinois,Idaho,11.0
+Western Illinois,Idaho,3.0
+South Dakota State,Idaho,1.5
+Portland State,Idaho,0.5
+Eastern Washington,Idaho,4.66666666667
+Northern Arizona,Idaho,7.0
+Northern Colorado,Idaho,4.0
+Weber State,Idaho,4.5
+North Dakota,Idaho,8.0
+Montana,Idaho,4.5
+Sacramento State,Idaho,4.0
+Montana State,Idaho,8.0
+New Mexico,Idaho State,24.0
+Utah State,Idaho State,13.0
+Grand Canyon,Idaho State,16.0
+Utah Valley,Idaho State,3.5
+CSU Bakersfield,Idaho State,9.0
+Denver,Idaho State,16.0
+South Dakota State,Idaho State,3.0
+Pacific,Idaho State,6.0
+Portland State,Idaho State,4.0
+Eastern Washington,Idaho State,6.0
+Northern Arizona,Idaho State,5.5
+Northern Colorado,Idaho State,3.0
+Weber State,Idaho State,5.5
+North Dakota,Idaho State,11.0
+Montana,Idaho State,18.5
+Sacramento State,Idaho State,3.0
+Montana State,Idaho State,2.5
+Idaho,Idaho State,10.5
+UNLV,Southern Utah,34.0
+Boise State,Southern Utah,19.0
+Loyola (CHI),Southern Utah,16.0
+Kansas State,Southern Utah,30.0
+Eastern Kentucky,Southern Utah,9.0
+Miami (OH),Southern Utah,13.0
+Utah Valley,Southern Utah,10.0
+Arkansas-Pine Bluff,Southern Utah,9.0
+Texas San Antonio,Southern Utah,1.0
+South Carolina State,Southern Utah,10.0
+Portland State,Southern Utah,8.0
+Eastern Washington,Southern Utah,3.0
+Northern Arizona,Southern Utah,12.0
+Northern Colorado,Southern Utah,7.0
+Weber State,Southern Utah,9.5
+North Dakota,Southern Utah,1.0
+Montana,Southern Utah,2.0
+Sacramento State,Southern Utah,5.5
+Montana State,Southern Utah,14.0
+Idaho,Southern Utah,2.0
+Idaho State,Southern Utah,4.0
+UC Davis,Stanford,13.0
+Connecticut,Stanford,13.0
+DePaul,Stanford,15.0
+Wofford,Stanford,15.0
+UNLV,Stanford,29.0
+Texas,Stanford,3.0
+Duke,Stanford,11.0
+Miami (FL),Stanford,2.0
+Arkansas-Pine Bluff,Stanford,35.0
+Old Dominion,Stanford,7.0
+Denver,Stanford,6.0
+South Dakota,Stanford,11.0
+BYU,Stanford,2.0
+Loyola Marymount,Stanford,9.0
+Rhode Island,Stanford,9.0
+Cal State Fullerton,UCLA,28.0
+UC Riverside,UCLA,11.0
+Long Beach State,UCLA,14.0
+Nicholls State,UCLA,33.0
+Oklahoma,UCLA,10.0
+North Carolina,UCLA,22.0
+UAB,UCLA,12.0
+San Diego,UCLA,7.0
+Gonzaga,UCLA,13.0
+Coastal Carolina,UCLA,13.0
+Montana State,UCLA,35.0
+Stanford,UCLA,3.5
+UC Santa Barbara,Oregon,4.0
+UC Irvine,Oregon,2.0
+CS Northridge,Oregon,23.0
+Detroit,Oregon,17.0
+Toledo,Oregon,10.0
+Michigan,Oregon,7.0
+Illinois,Oregon,7.0
+VCU,Oregon,14.0
+Coppin State,Oregon,42.0
+Delaware State,Oregon,13.0
+Portland State,Oregon,22.0
+Stanford,Oregon,3.0
+UCLA,Oregon,4.5
+UC Irvine,Arizona,17.0
+CS Northridge,Arizona,18.0
+Mount St Mary's,Arizona,23.0
+San Diego State,Arizona,2.0
+UNLV,Arizona,4.0
+Oakland,Arizona,37.0
+Kansas State,Arizona,4.0
+Utah Valley,Arizona,31.0
+Michigan,Arizona,27.0
+UTEP,Arizona,5.0
+Gonzaga,Arizona,3.0
+Gardner-Webb,Arizona,26.0
+Stanford,Arizona,14.5
+UCLA,Arizona,8.0
+Oregon,Arizona,26.6666666667
+Long Beach State,Washington,10.0
+Tulane,Washington,9.0
+Stony Brook,Washington,5.0
+San Diego State,Washington,13.0
+San José State,Washington,22.0
+Oklahoma,Washington,2.0
+Seattle,Washington,15.0
+Grambling State,Washington,48.0
+UTEP,Washington,3.0
+Pacific,Washington,7.0
+South Carolina State,Washington,18.0
+Eastern Washington,Washington,4.0
+Stanford,Washington,6.66666666667
+UCLA,Washington,22.0
+Oregon,Washington,2.0
+Arizona,Washington,24.0
+Harvard,Arizona State,10.0
+Connecticut,Arizona State,7.0
+Marquette,Arizona State,7.0
+UNLV,Arizona State,22.0
+Detroit,Arizona State,39.0
+Chicago State,Arizona State,36.0
+Maryland,Arizona State,5.0
+Pepperdine,Arizona State,7.0
+Loyola Marymount,Arizona State,24.0
+Richmond,Arizona State,6.0
+Bethune-Cookman,Arizona State,10.0
+Stanford,Arizona State,7.0
+UCLA,Arizona State,2.0
+Oregon,Arizona State,2.0
+Arizona,Arizona State,10.5
+Washington,Arizona State,10.0
+UC Riverside,Utah,46.0
+San Diego State,Utah,4.0
+UNLV,Utah,13.0
+Wichita St,Utah,1.0
+Kansas,Utah,3.0
+Ball State,Utah,18.0
+UT-Rio Grande Valley,Utah,37.0
+Alabama State,Utah,31.0
+South Dakota State,Utah,14.0
+BYU,Utah,4.0
+North Dakota,Utah,37.0
+Stanford,Utah,20.0
+UCLA,Utah,11.0
+Oregon,Utah,7.0
+Arizona,Utah,12.0
+Washington,Utah,6.0
+Arizona State,Utah,29.5
+Cal State Fullerton,USC,4.0
+Vermont,USC,8.0
+New Mexico,USC,12.0
+Utah State,USC,5.0
+Tennessee Tech,USC,12.0
+Akron,USC,20.0
+Boston College,USC,4.0
+Penn State,USC,2.0
+Loyola Marymount,USC,16.0
+Portland State,USC,8.0
+Stanford,USC,5.0
+UCLA,USC,18.0
+Oregon,USC,6.5
+Arizona,USC,30.0
+Washington,USC,15.0
+Arizona State,USC,1.0
+Utah,USC,26.0
+UC Santa Barbara,Oregon State,12.0
+DePaul,Oregon State,31.0
+Oklahoma State,Oregon State,13.0
+Grambling State,Oregon State,28.0
+Mississippi Valley State,Oregon State,24.0
+Rice,Oregon State,19.0
+Oral Roberts,Oregon State,13.0
+Portland,Oregon State,7.0
+Stanford,Oregon State,27.0
+UCLA,Oregon State,2.5
+Oregon,Oregon State,7.5
+Arizona,Oregon State,10.5
+Washington,Oregon State,0.5
+Arizona State,Oregon State,5.0
+Utah,Oregon State,10.0
+USC,Oregon State,4.5
+Lipscomb,Colorado,9.0
+Hawaii,Colorado,3.0
+DePaul,Colorado,14.0
+Wyoming,Colorado,23.0
+Air Force,Colorado,15.0
+Colorado State,Colorado,2.0
+San Francisco,Colorado,17.0
+George Washington,Colorado,3.0
+Northern Colorado,Colorado,25.0
+Stanford,Colorado,6.0
+UCLA,Colorado,3.5
+Oregon,Colorado,10.5
+Arizona,Colorado,21.0
+Washington,Colorado,7.5
+Arizona State,Colorado,0.0
+Utah,Colorado,26.5
+USC,Colorado,12.5
+Oregon State,Colorado,3.5
+Kennesaw State,California,34.0
+Cal Poly,California,20.0
+Princeton,California,10.0
+Nevada,California,7.0
+Wyoming,California,3.0
+Fresno State,California,7.0
+Texas,California,16.0
+Syracuse,California,14.0
+CSU Bakersfield,California,3.0
+Alcorn State,California,34.0
+Wisconsin,California,12.0
+Eastern Washington,California,11.0
+Montana,California,2.0
+Stanford,California,10.5
+UCLA,California,8.5
+Oregon,California,11.0
+Arizona,California,28.0
+Washington,California,4.0
+Arizona State,California,19.5
+Utah,California,15.0
+USC,California,6.5
+Oregon State,California,17.0
+Colorado,California,7.0
+UC Davis,Washington State,7.0
+UC Santa Barbara,Washington State,28.0
+San José State,Washington State,29.0
+Missouri State,Washington State,5.0
+TCU,Washington State,27.0
+UTEP,Washington State,13.0
+Texas San Antonio,Washington State,20.0
+Rice,Washington State,2.0
+Gonzaga,Washington State,15.0
+Santa Clara,Washington State,9.0
+Idaho,Washington State,6.0
+Idaho State,Washington State,12.0
+Stanford,Washington State,7.0
+UCLA,Washington State,5.0
+Oregon,Washington State,7.0
+Arizona,Washington State,27.0
+Washington,Washington State,0.0
+Arizona State,Washington State,3.0
+Utah,Washington State,15.0
+USC,Washington State,4.0
+Oregon State,Washington State,10.0
+Colorado,Washington State,13.5
+California,Washington State,10.3333333333
+Princeton,Saint Peter's,14.0
+Brown,Saint Peter's,12.0
+Cornell,Saint Peter's,7.0
+Seton Hall,Saint Peter's,15.0
+Fairleigh Dickinson,Saint Peter's,9.0
+Hartford,Saint Peter's,1.0
+Tennessee State,Saint Peter's,8.0
+Rutgers,Saint Peter's,18.0
+La Salle,Saint Peter's,9.0
+Norfolk State,Saint Peter's,2.0
+Cornell,Siena,18.0
+Albany,Siena,9.0
+Vermont,Siena,8.0
+Radford,Siena,10.0
+Massachusetts,Siena,8.0
+Fordham,Siena,2.0
+St Bonaventure,Siena,3.0
+Saint Peter's,Siena,11.0
+Wofford,Fairfield,18.0
+Central Connecticut,Fairfield,8.0
+Albany,Fairfield,11.0
+Sam Houston State,Fairfield,14.0
+Belmont,Fairfield,12.0
+Duke,Fairfield,50.0
+South Dakota,Fairfield,8.0
+Saint Peter's,Fairfield,9.0
+Siena,Fairfield,5.5
+Binghamton,Manhattan,15.0
+Pittsburgh,Manhattan,9.0
+Florida State,Manhattan,15.0
+Rutgers,Manhattan,8.0
+Massachusetts,Manhattan,9.0
+George Mason,Manhattan,1.0
+Fordham,Manhattan,14.0
+Morgan State,Manhattan,4.0
+Saint Peter's,Manhattan,9.66666666667
+Siena,Manhattan,7.0
+Fairfield,Manhattan,2.0
+Penn,Niagara,11.0
+St John's,Niagara,13.0
+Albany,Niagara,18.0
+Hartford,Niagara,3.0
+Buffalo,Niagara,26.0
+Pittsburgh,Niagara,33.0
+Arkansas State,Niagara,5.0
+Davidson,Niagara,20.0
+St Bonaventure,Niagara,15.0
+Saint Peter's,Niagara,5.0
+Siena,Niagara,10.3333333333
+Fairfield,Niagara,1.5
+Manhattan,Niagara,1.5
+Florida Gulf Coast,Iona,19.0
+Wofford,Iona,13.0
+Cleveland State,Iona,5.0
+Indiana State,Iona,7.0
+Wake Forest,Iona,4.0
+North Texas,Iona,20.0
+Massachusetts,Iona,5.0
+Rhode Island,Iona,13.0
+George Mason,Iona,5.0
+Delaware State,Iona,50.0
+Saint Peter's,Iona,0.5
+Siena,Iona,7.0
+Fairfield,Iona,15.5
+Manhattan,Iona,1.0
+Niagara,Iona,12.0
+Yale,Quinnipiac,3.0
+Maine,Quinnipiac,17.0
+Albany,Quinnipiac,3.0
+Hartford,Quinnipiac,4.0
+Vermont,Quinnipiac,16.0
+La Salle,Quinnipiac,2.0
+Oregon State,Quinnipiac,8.0
+Saint Peter's,Quinnipiac,1.0
+Siena,Quinnipiac,5.5
+Fairfield,Quinnipiac,1.5
+Manhattan,Quinnipiac,5.0
+Niagara,Quinnipiac,8.5
+Iona,Quinnipiac,5.5
+Florida Gulf Coast,Marist,15.0
+Hawaii,Marist,7.0
+Penn,Marist,17.0
+VMI,Marist,15.0
+Fresno State,Marist,4.0
+Boston College,Marist,18.0
+Saint Joseph's,Marist,17.0
+Saint Peter's,Marist,5.0
+Siena,Marist,5.5
+Fairfield,Marist,0.0
+Manhattan,Marist,17.0
+Niagara,Marist,4.0
+Iona,Marist,13.0
+Quinnipiac,Marist,2.33333333333
+Princeton,Rider,6.0
+Penn,Rider,16.0
+Central Connecticut,Rider,13.0
+Wagner,Rider,5.0
+Hartford,Rider,2.0
+Kansas,Rider,27.0
+Georgia Tech,Rider,7.0
+Michigan State,Rider,32.0
+Santa Clara,Rider,8.0
+Morgan State,Rider,14.0
+Saint Peter's,Rider,4.33333333333
+Siena,Rider,2.5
+Fairfield,Rider,9.0
+Manhattan,Rider,5.5
+Niagara,Rider,2.5
+Iona,Rider,11.5
+Quinnipiac,Rider,7.0
+Marist,Rider,10.0
+Cornell,Canisius,7.0
+Stony Brook,Canisius,1.0
+Vermont,Canisius,4.0
+Buffalo,Canisius,15.0
+UMKC,Canisius,12.0
+Massachusetts,Canisius,17.0
+St Bonaventure,Canisius,6.0
+Saint Peter's,Canisius,8.5
+Siena,Canisius,20.0
+Fairfield,Canisius,10.5
+Manhattan,Canisius,6.0
+Niagara,Canisius,1.0
+Iona,Canisius,0.5
+Quinnipiac,Canisius,4.0
+Marist,Canisius,3.5
+Rider,Canisius,7.0
+Penn,Monmouth,15.0
+SMU,Monmouth,12.0
+Central Connecticut,Monmouth,15.0
+Wagner,Monmouth,8.0
+St Francis (BKN),Monmouth,25.0
+West Virginia,Monmouth,10.0
+Rutgers,Monmouth,1.0
+Maryland,Monmouth,5.0
+Fordham,Monmouth,10.0
+Bethune-Cookman,Monmouth,23.0
+Saint Peter's,Monmouth,2.0
+Siena,Monmouth,12.5
+Fairfield,Monmouth,4.0
+Manhattan,Monmouth,9.0
+Niagara,Monmouth,13.5
+Iona,Monmouth,5.33333333333
+Quinnipiac,Monmouth,12.0
+Marist,Monmouth,5.5
+Rider,Monmouth,1.0
+Canisius,Monmouth,5.0
+Columbia,Colgate,5.0
+Cornell,Colgate,6.0
+Sacred Heart,Colgate,1.0
+Albany,Colgate,4.0
+Binghamton,Colgate,21.0
+New Hampshire,Colgate,6.0
+Syracuse,Colgate,35.0
+Ohio State,Colgate,20.0
+Campbell,Colgate,6.0
+La Salle,Colgate,5.0
+Arizona State,Colgate,7.0
+Penn,Navy,11.0
+Providence,Navy,37.0
+The Citadel,Navy,7.0
+VMI,Navy,18.0
+St Francis (PA),Navy,17.0
+Binghamton,Navy,2.0
+Notre Dame,Navy,39.0
+Michigan State,Navy,5.0
+Maryland-Eastern Shore,Navy,7.0
+Colgate,Navy,7.0
+Columbia,Loyola (MD),2.0
+Cornell,Loyola (MD),5.0
+Butler,Loyola (MD),41.0
+Mount St Mary's,Loyola (MD),9.0
+UMBC,Loyola (MD),7.0
+Stony Brook,Loyola (MD),15.0
+Texas Tech,Loyola (MD),12.0
+Syracuse,Loyola (MD),33.0
+Saint Joseph's,Loyola (MD),26.0
+Siena,Loyola (MD),10.0
+Fairfield,Loyola (MD),2.0
+Colgate,Loyola (MD),0.5
+Navy,Loyola (MD),16.5
+Princeton,Lafayette,17.0
+Penn,Lafayette,6.0
+Yale,Lafayette,22.0
+Robert Morris,Lafayette,27.0
+Sacred Heart,Lafayette,1.0
+Fairleigh Dickinson,Lafayette,21.0
+Wagner,Lafayette,13.0
+West Virginia,Lafayette,27.0
+Kansas,Lafayette,27.0
+Colgate,Lafayette,3.5
+Navy,Lafayette,2.5
+Loyola (MD),Lafayette,7.5
+Columbia,Bucknell,23.0
+Temple,Bucknell,6.0
+Villanova,Bucknell,7.0
+Mount St Mary's,Bucknell,4.0
+Albany,Bucknell,3.0
+Toledo,Bucknell,27.0
+Wake Forest,Bucknell,7.0
+Penn State,Bucknell,8.0
+Michigan,Bucknell,24.0
+Maryland-Eastern Shore,Bucknell,3.0
+Siena,Bucknell,2.0
+Fairfield,Bucknell,6.0
+Marist,Bucknell,3.0
+Colgate,Bucknell,4.0
+Navy,Bucknell,1.5
+Loyola (MD),Bucknell,12.5
+Lafayette,Bucknell,2.0
+VMI,Army,6.0
+Bryant,Army,7.0
+St Francis (BKN),Army,3.0
+Maine,Army,3.0
+Binghamton,Army,26.0
+Air Force,Army,6.0
+Duke,Army,20.0
+USC,Army,8.0
+Marist,Army,14.0
+Colgate,Army,7.0
+Navy,Army,7.0
+Loyola (MD),Army,9.0
+Lafayette,Army,12.0
+Bucknell,Army,4.5
+Columbia,American,9.0
+Brown,American,17.0
+Temple,American,3.0
+St Francis (PA),American,3.0
+Mount St Mary's,American,1.0
+Stony Brook,American,12.0
+Morehead State,American,5.0
+Illinois,American,15.0
+Louisiana Tech,American,19.0
+Presbyterian College,American,25.0
+La Salle,American,2.0
+Hampton,American,4.0
+Colgate,American,1.0
+Navy,American,4.5
+Loyola (MD),American,6.0
+Lafayette,American,3.66666666667
+Bucknell,American,6.0
+Army,American,5.5
+Harvard,Boston University,14.0
+UMass Lowell,Boston University,10.0
+Binghamton,Boston University,12.0
+New Hampshire,Boston University,7.0
+Dayton,Boston University,16.0
+Norfolk State,Boston University,8.0
+Saint Peter's,Boston University,11.0
+Quinnipiac,Boston University,3.0
+Colgate,Boston University,8.0
+Navy,Boston University,4.5
+Loyola (MD),Boston University,4.0
+Lafayette,Boston University,4.0
+Bucknell,Boston University,12.0
+Army,Boston University,1.0
+American,Boston University,6.5
+Brown,Holy Cross,15.0
+Harvard,Holy Cross,1.0
+Sacred Heart,Holy Cross,13.0
+Albany,Holy Cross,17.0
+Hartford,Holy Cross,18.0
+Pittsburgh,Holy Cross,19.0
+Syracuse,Holy Cross,24.0
+Canisius,Holy Cross,19.0
+Colgate,Holy Cross,2.0
+Navy,Holy Cross,1.5
+Loyola (MD),Holy Cross,3.33333333333
+Lafayette,Holy Cross,3.5
+Bucknell,Holy Cross,5.66666666667
+Army,Holy Cross,3.5
+American,Holy Cross,5.5
+Boston University,Holy Cross,1.0
+Columbia,Lehigh,10.0
+Villanova,Lehigh,11.0
+DePaul,Lehigh,12.0
+St Francis (PA),Lehigh,2.0
+LIU Brooklyn,Lehigh,4.0
+UMBC,Lehigh,3.0
+Arizona State,Lehigh,3.0
+Quinnipiac,Lehigh,15.0
+Rider,Lehigh,4.0
+Canisius,Lehigh,12.0
+Colgate,Lehigh,6.5
+Navy,Lehigh,10.0
+Loyola (MD),Lehigh,0.5
+Lafayette,Lehigh,1.0
+Bucknell,Lehigh,6.5
+Army,Lehigh,20.0
+American,Lehigh,0.666666666667
+Boston University,Lehigh,8.0
+Holy Cross,Lehigh,0.5
+Kennesaw State,Elon,2.0
+North Florida,Elon,7.0
+UNC Greensboro,Elon,7.0
+Miami (OH),Elon,2.0
+Duke,Elon,13.0
+Northwestern,Elon,1.0
+Charlotte,Elon,13.0
+Florida Atlantic,Elon,6.0
+Morgan State,Elon,1.0
+Marist,Elon,5.0
+Jacksonville,Hofstra,33.0
+Columbia,Hofstra,5.0
+South Florida,Hofstra,1.0
+Central Connecticut,Hofstra,28.0
+LIU Brooklyn,Hofstra,26.0
+Wagner,Hofstra,22.0
+Stony Brook,Hofstra,1.0
+NC State,Hofstra,12.0
+Appalachian State,Hofstra,17.0
+Jackson State,Hofstra,30.0
+La Salle,Hofstra,9.0
+Norfolk State,Hofstra,14.0
+Coppin State,Hofstra,41.0
+Elon,Hofstra,14.5
+East Carolina,UNC Wilmington,12.0
+UNC Greensboro,UNC Wilmington,12.0
+VMI,UNC Wilmington,17.0
+Ohio,UNC Wilmington,19.0
+Louisville,UNC Wilmington,11.0
+Minnesota,UNC Wilmington,26.0
+Old Dominion,UNC Wilmington,20.0
+Campbell,UNC Wilmington,6.0
+Liberty,UNC Wilmington,3.0
+Davidson,UNC Wilmington,23.0
+Elon,UNC Wilmington,1.0
+Hofstra,UNC Wilmington,3.5
+Cal Poly,Delaware,18.0
+Temple,Delaware,20.0
+Villanova,Delaware,31.0
+Robert Morris,Delaware,3.0
+Fairleigh Dickinson,Delaware,2.0
+CSU Bakersfield,Delaware,18.0
+Liberty,Delaware,6.0
+St Bonaventure,Delaware,5.0
+Delaware State,Delaware,13.0
+Stanford,Delaware,37.0
+Army,Delaware,4.0
+Elon,Delaware,10.0
+Hofstra,Delaware,11.5
+UNC Wilmington,Delaware,5.0
+East Carolina,James Madison,12.0
+Sacred Heart,James Madison,7.0
+Valparaiso,James Madison,27.0
+Ball State,James Madison,20.0
+Virginia,James Madison,28.0
+Ohio State,James Madison,17.0
+High Point,James Madison,9.0
+Radford,James Madison,3.0
+Campbell,James Madison,2.0
+Longwood,James Madison,22.0
+Richmond,James Madison,5.0
+Norfolk State,James Madison,3.0
+Colgate,James Madison,6.0
+Elon,James Madison,7.0
+Hofstra,James Madison,0.666666666667
+UNC Wilmington,James Madison,16.0
+Delaware,James Madison,9.5
+Temple,Towson,12.0
+Georgetown,Towson,32.0
+Central Connecticut,Towson,9.0
+Fairleigh Dickinson,Towson,1.0
+UMBC,Towson,11.0
+La Salle,Towson,14.0
+Bethune-Cookman,Towson,21.0
+Morgan State,Towson,5.0
+Coppin State,Towson,8.0
+Monmouth,Towson,4.0
+Navy,Towson,5.0
+Elon,Towson,0.333333333333
+Hofstra,Towson,4.5
+UNC Wilmington,Towson,4.0
+Delaware,Towson,4.0
+James Madison,Towson,5.5
+Connecticut,Charleston,8.0
+The Citadel,Charleston,4.0
+Furman,Charleston,35.0
+West Virginia,Charleston,29.0
+Miami (FL),Charleston,27.0
+Charlotte,Charleston,5.0
+Campbell,Charleston,11.0
+Gardner-Webb,Charleston,13.0
+Davidson,Charleston,12.0
+George Mason,Charleston,1.0
+South Carolina State,Charleston,3.0
+Elon,Charleston,15.0
+Hofstra,Charleston,19.0
+UNC Wilmington,Charleston,13.6666666667
+Delaware,Charleston,4.5
+James Madison,Charleston,9.0
+Towson,Charleston,3.5
+Cal Poly,Northeastern,2.0
+Harvard,Northeastern,14.0
+Detroit,Northeastern,12.0
+Western Michigan,Northeastern,12.0
+Florida State,Northeastern,3.0
+Saint Mary's,Northeastern,4.0
+Santa Clara,Northeastern,6.0
+Massachusetts,Northeastern,25.0
+Richmond,Northeastern,1.0
+Fairfield,Northeastern,9.0
+Manhattan,Northeastern,14.0
+Navy,Northeastern,24.0
+Boston University,Northeastern,6.0
+Elon,Northeastern,6.0
+Hofstra,Northeastern,9.5
+UNC Wilmington,Northeastern,1.66666666667
+Delaware,Northeastern,5.66666666667
+James Madison,Northeastern,14.5
+Towson,Northeastern,5.0
+Charleston,Northeastern,5.5
+Cornell,Drexel,2.0
+Buffalo,Drexel,10.0
+Miami (FL),Drexel,20.0
+Penn State,Drexel,5.0
+Southern Mississippi,Drexel,23.0
+La Salle,Drexel,10.0
+Saint Joseph's,Drexel,3.0
+USC,Drexel,2.0
+Colorado,Drexel,17.0
+Iona,Drexel,19.0
+Elon,Drexel,3.0
+Hofstra,Drexel,26.0
+UNC Wilmington,Drexel,1.0
+Delaware,Drexel,5.0
+James Madison,Drexel,11.5
+Towson,Drexel,9.0
+Charleston,Drexel,2.66666666667
+Northeastern,Drexel,2.5
+Tulsa,William & Mary,3.0
+Wofford,William & Mary,4.0
+North Carolina,William & Mary,22.0
+Old Dominion,William & Mary,7.0
+Rice,William & Mary,4.0
+Western Illinois,William & Mary,34.0
+High Point,William & Mary,3.0
+Richmond,William & Mary,1.0
+Howard,William & Mary,7.0
+Elon,William & Mary,8.66666666667
+Hofstra,William & Mary,8.0
+UNC Wilmington,William & Mary,3.5
+Delaware,William & Mary,3.5
+James Madison,William & Mary,13.5
+Towson,William & Mary,14.0
+Charleston,William & Mary,11.0
+Northeastern,William & Mary,2.0
+Drexel,William & Mary,6.0
+Mercer,Texas A&M;,15.0
+Hartford,Texas A&M;,9.0
+Northwestern State,Texas A&M;,41.0
+Sam Houston State,Texas A&M;,3.0
+New Orleans,Texas A&M;,22.0
+New Mexico,Texas A&M;,13.0
+Youngstown State,Texas A&M;,18.0
+Baylor,Texas A&M;,14.0
+Kansas State,Texas A&M;,7.0
+Louisiana Tech,Texas A&M;,12.0
+Dayton,Texas A&M;,2.0
+Montana,Texas A&M;,17.0
+Arizona State,Texas A&M;,1.0
+Charleston,Texas A&M;,9.0
+SMU,Arkansas,6.0
+Northwestern State,Arkansas,8.0
+Milwaukee,Arkansas,30.0
+Iowa State,Arkansas,18.0
+Southeast Missouri State,Arkansas,17.0
+Wake Forest,Arkansas,30.0
+Clemson,Arkansas,3.0
+Utah Valley,Arkansas,33.0
+Alabama State,Arkansas,18.0
+North Texas,Arkansas,16.0
+Dayton,Arkansas,14.0
+Delaware State,Arkansas,28.0
+Iona,Arkansas,17.0
+Texas A&M;,Arkansas,6.0
+Butler,Tennessee,12.0
+Marquette,Tennessee,8.0
+East Tennessee State,Tennessee,10.0
+Mercer,Tennessee,10.0
+Kansas,Tennessee,15.0
+Kansas State,Tennessee,1.0
+Tennessee Tech,Tennessee,3.0
+Tennessee State,Tennessee,21.0
+NC State,Tennessee,11.0
+Texas Southern,Tennessee,12.0
+Santa Clara,Tennessee,7.0
+VCU,Tennessee,16.0
+Texas A&M;,Tennessee,6.0
+Arkansas,Tennessee,2.66666666667
+North Florida,Alabama,15.0
+South Florida,Alabama,11.0
+Xavier,Alabama,13.0
+Western Carolina,Alabama,6.0
+Wichita St,Alabama,1.0
+Iowa State,Alabama,10.0
+Tennessee Tech,Alabama,12.0
+Miami (FL),Alabama,7.0
+Appalachian State,Alabama,1.0
+Illinois,Alabama,21.0
+Southern Mississippi,Alabama,14.0
+UCLA,Alabama,6.0
+Arizona State,Alabama,5.0
+Towson,Alabama,28.0
+Texas A&M;,Alabama,11.0
+Arkansas,Alabama,2.0
+Tennessee,Alabama,18.0
+South Carolina Upstate,Mississippi State,2.0
+Jacksonville,Mississippi State,23.0
+Tulane,Mississippi State,5.0
+Western Carolina,Mississippi State,10.0
+McNeese State,Mississippi State,19.0
+Utah State,Mississippi State,8.0
+TCU,Mississippi State,9.0
+Florida State,Mississippi State,7.0
+Arkansas State,Mississippi State,14.0
+Mississippi Valley State,Mississippi State,21.0
+Saint Louis,Mississippi State,25.0
+Oregon State,Mississippi State,10.0
+Texas A&M;,Mississippi State,4.0
+Arkansas,Mississippi State,12.0
+Tennessee,Mississippi State,4.5
+Alabama,Mississippi State,4.0
+Tulsa,Auburn,18.0
+Xavier,Auburn,1.0
+Milwaukee,Auburn,10.0
+Texas Tech,Auburn,2.0
+Clemson,Auburn,11.0
+Louisiana Lafayette,Auburn,25.0
+Texas Southern,Auburn,1.0
+Middle Tennessee,Auburn,16.0
+Coastal Carolina,Auburn,4.0
+Winthrop,Auburn,18.0
+Oregon State,Auburn,2.0
+Colorado,Auburn,31.0
+Texas A&M;,Auburn,9.33333333333
+Arkansas,Auburn,14.0
+Tennessee,Auburn,8.0
+Alabama,Auburn,6.5
+Mississippi State,Auburn,0.5
+McNeese State,LSU,11.0
+Sam Houston State,LSU,9.0
+Texas Tech,LSU,5.0
+West Virginia,LSU,1.0
+Clemson,LSU,3.0
+Southern Mississippi,LSU,20.0
+UAB,LSU,9.0
+Old Dominion,LSU,9.0
+Gardner-Webb,LSU,11.0
+Massachusetts,LSU,22.0
+Savannah State,LSU,16.0
+Weber State,LSU,14.0
+Charleston,LSU,24.0
+Texas A&M;,LSU,4.5
+Arkansas,LSU,3.0
+Tennessee,LSU,1.5
+Alabama,LSU,11.0
+Mississippi State,LSU,6.0
+Auburn,LSU,5.33333333333
+Seton Hall,Georgia,18.0
+Chattanooga,Georgia,31.0
+Mercer,Georgia,9.0
+Stony Brook,Georgia,10.0
+Kansas State,Georgia,4.0
+Georgia Tech,Georgia,7.0
+Troy,Georgia,22.0
+Minnesota,Georgia,4.0
+Florida Atlantic,Georgia,13.0
+Gonzaga,Georgia,12.0
+Norfolk State,Georgia,13.0
+Colorado,Georgia,7.0
+Texas A&M;,Georgia,9.0
+Arkansas,Georgia,7.5
+Tennessee,Georgia,3.0
+Alabama,Georgia,1.0
+Mississippi State,Georgia,6.0
+Auburn,Georgia,1.0
+LSU,Georgia,3.0
+North Florida,South Carolina,25.0
+Cornell,South Carolina,24.0
+Oklahoma State,South Carolina,26.0
+Baylor,South Carolina,4.0
+Iowa State,South Carolina,4.0
+Akron,South Carolina,5.0
+Clemson,South Carolina,23.0
+Charlotte,South Carolina,2.0
+Marshall,South Carolina,18.0
+UNC Asheville,South Carolina,14.0
+North Carolina A&T;,South Carolina,37.0
+Texas A&M;,South Carolina,10.0
+Arkansas,South Carolina,12.0
+Tennessee,South Carolina,3.5
+Alabama,South Carolina,3.0
+Mississippi State,South Carolina,13.0
+Auburn,South Carolina,3.0
+LSU,South Carolina,6.0
+Georgia,South Carolina,3.66666666667
+Lipscomb,Missouri,12.0
+Xavier,Missouri,16.0
+Valparaiso,Missouri,15.0
+Oklahoma State,Missouri,2.0
+Oklahoma,Missouri,19.0
+Southeast Missouri State,Missouri,4.0
+UMKC,Missouri,8.0
+Illinois,Missouri,3.0
+Purdue,Missouri,21.0
+Oral Roberts,Missouri,14.0
+Arizona,Missouri,19.0
+Elon,Missouri,5.0
+Texas A&M;,Missouri,17.0
+Arkansas,Missouri,8.0
+Tennessee,Missouri,8.0
+Alabama,Missouri,13.0
+Mississippi State,Missouri,6.0
+Auburn,Missouri,2.0
+LSU,Missouri,7.0
+Georgia,Missouri,24.0
+South Carolina,Missouri,7.0
+Jacksonville,Florida,45.0
+Yale,Florida,38.0
+Connecticut,Florida,4.0
+Georgetown,Florida,1.0
+Kansas,Florida,6.0
+Wake Forest,Florida,13.0
+Miami (FL),Florida,2.0
+North Carolina,Florida,11.0
+Florida State,Florida,0.0
+Louisiana Monroe,Florida,5.0
+Texas Southern,Florida,25.0
+UAB,Florida,9.0
+William & Mary,Florida,23.0
+Texas A&M;,Florida,1.5
+Arkansas,Florida,1.0
+Tennessee,Florida,17.0
+Alabama,Florida,5.0
+Mississippi State,Florida,25.0
+Auburn,Florida,20.0
+LSU,Florida,12.5
+Georgia,Florida,12.0
+South Carolina,Florida,4.0
+Missouri,Florida,12.0
+Columbia,Kentucky,10.0
+Providence,Kentucky,20.0
+Kansas,Kentucky,32.0
+Texas,Kentucky,12.0
+Eastern Kentucky,Kentucky,33.0
+Buffalo,Kentucky,19.0
+Louisville,Kentucky,8.0
+North Carolina,Kentucky,14.0
+UT-Arlington,Kentucky,48.0
+Grand Canyon,Kentucky,40.0
+Montana State,Kentucky,58.0
+UCLA,Kentucky,39.0
+Boston University,Kentucky,24.0
+Texas A&M;,Kentucky,6.0
+Arkansas,Kentucky,16.0
+Tennessee,Kentucky,18.0
+Alabama,Kentucky,18.5
+Mississippi State,Kentucky,18.0
+Auburn,Kentucky,29.5
+LSU,Kentucky,2.0
+Georgia,Kentucky,9.5
+South Carolina,Kentucky,24.5
+Missouri,Kentucky,32.5
+Florida,Kentucky,13.0
+Lipscomb,Vanderbilt,10.0
+Penn,Vanderbilt,29.0
+Yale,Vanderbilt,5.0
+Western Carolina,Vanderbilt,20.0
+Baylor,Vanderbilt,3.0
+Tennessee State,Vanderbilt,32.0
+Georgia Tech,Vanderbilt,5.0
+Rutgers,Vanderbilt,3.0
+Purdue,Vanderbilt,10.0
+South Dakota State,Vanderbilt,15.0
+Saint Mary's,Vanderbilt,11.0
+La Salle,Vanderbilt,13.0
+Saint Louis,Vanderbilt,15.0
+Norfolk State,Vanderbilt,10.0
+Stanford,Vanderbilt,3.0
+Texas A&M;,Vanderbilt,11.0
+Arkansas,Vanderbilt,12.0
+Tennessee,Vanderbilt,0.333333333333
+Alabama,Vanderbilt,7.5
+Mississippi State,Vanderbilt,3.5
+Auburn,Vanderbilt,12.0
+LSU,Vanderbilt,4.0
+Georgia,Vanderbilt,5.5
+South Carolina,Vanderbilt,15.0
+Missouri,Vanderbilt,23.0
+Florida,Vanderbilt,1.5
+Kentucky,Vanderbilt,8.0
+Cincinnati,Ole Miss,12.0
+Creighton,Ole Miss,7.0
+TCU,Ole Miss,12.0
+Austin Peay,Ole Miss,29.0
+Southeast Missouri State,Ole Miss,31.0
+Troy,Ole Miss,10.0
+Southern,Ole Miss,31.0
+Western Kentucky,Ole Miss,7.0
+Coastal Carolina,Ole Miss,3.0
+Charleston Southern,Ole Miss,1.0
+Dayton,Ole Miss,4.0
+Northern Arizona,Ole Miss,6.0
+Oregon,Ole Miss,6.0
+Texas A&M;,Ole Miss,10.0
+Arkansas,Ole Miss,6.5
+Tennessee,Ole Miss,2.0
+Alabama,Ole Miss,8.0
+Mississippi State,Ole Miss,6.0
+Auburn,Ole Miss,7.0
+LSU,Ole Miss,7.0
+Georgia,Ole Miss,4.5
+South Carolina,Ole Miss,7.0
+Missouri,Ole Miss,20.0
+Florida,Ole Miss,1.0
+Kentucky,Ole Miss,3.0
+Vanderbilt,Ole Miss,9.0
